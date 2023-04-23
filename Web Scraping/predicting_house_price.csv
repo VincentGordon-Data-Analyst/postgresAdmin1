@@ -1,610 +1,929 @@
-,lat,lon,city,style,building_type,cooling_type,heating_type,price,number_of_beds,number_of_baths,extra_space,fire_place
-0,43.33341,-79.88293,Waterdown,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749900.0,2,3,0,0
-1,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,2998000.0,5,8,1,1
-2,43.67089,-79.316931,Toronto,Detached,House,Central air conditioning,Forced air,2599900.0,3,4,0,1
-3,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,2499850.0,4,4,1,0
-4,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1999000.0,5,4,0,1
-5,43.650005,-79.482809,Toronto,Detached,House,Wall unit,Hot water radiator heat,1499000.0,3,2,0,0
-6,43.1561412,-79.9161804,Mount Hope,Detached,House,Central air conditioning,"Baseboard heaters, Forced air",1425000.0,3,3,0,0
-7,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1199000.0,3,3,0,0
-8,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,1098000.0,3,2,0,0
-9,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,999900.0,4,2,0,1
-10,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,949900.0,4,3,1,0
-11,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,875000.0,3,3,0,1
-12,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,866000.0,3,2,0,0
-13,43.641342,-79.399759,Toronto,Townhouse,Row / Townhouse,Wall unit,Baseboard heaters,838000.0,2,2,1,1
-14,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749888.0,3,3,0,1
-15,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,645900.0,3,2,0,1
-16,45.0154164,-75.644567,Kemptville,Detached,House,Wall unit,"Baseboard heaters, Other",599999.0,2,1,0,1
-17,43.1408157,-80.2631733,Brantford,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599000.0,3,3,0,0
-18,45.041406,-74.733993,Cornwall,Detached,House,Central air conditioning,Forced air,579000.0,2,2,1,0
-19,45.821328,-77.110488,Pembroke,Detached,House,Central air conditioning,Forced air,550000.0,3,2,0,1
-20,42.1013315,-83.1086458,Amherstburg,Detached,House,"Central air conditioning, Fully air conditioned",Forced air,549900.0,3,2,0,0
-21,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,"Central air conditioning, Fully air conditioned",Forced air,400000.0,2,3,1,0
-22,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,"Central air conditioning, Fully air conditioned",Forced air,400000.0,2,3,1,0
-23,42.969292,-81.20529,London,Townhouse,Row / Townhouse,Central air conditioning,Forced air,399900.0,4,2,0,0
-24,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,2999000.0,4,4,0,1
-25,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,2900000.0,6,6,0,1
-26,44.3150892,-79.5461073,Innisfil,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2699000.0,4,5,0,1
-27,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2390000.0,4,5,1,1
-28,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2199000.0,4,4,1,1
-29,43.68009,-79.354896,Toronto,Detached,House,Central air conditioning,Forced air,2195000.0,4,5,1,1
-30,43.671561,-79.403274,Toronto,Detached,House,Central air conditioning,Forced air,2059000.0,3,2,1,1
-31,43.654509,-79.509097,Toronto,Detached,House,Wall unit,Hot water radiator heat,1990000.0,4,3,0,1
-32,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1988800.0,4,4,1,1
-33,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1899999.0,4,5,0,1
-34,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1849000.0,3,5,1,0
-35,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1800000.0,4,4,0,1
-36,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,1799000.0,3,4,1,1
-37,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1799000.0,4,6,1,1
-38,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1798000.0,3,2,1,1
-39,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Radiant heat,1749900.0,4,2,0,1
-40,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,1738000.0,4,5,0,1
-41,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1699990.0,4,6,1,1
-42,43.738576,-79.468834,Toronto,Detached,House,Central air conditioning,Forced air,1698000.0,3,4,1,1
-43,43.660438,-79.465004,Toronto,Detached,House,Wall unit,Hot water radiator heat,1649000.0,3,2,0,0
-44,43.842903,-79.89885,Caledon,Detached,House,Central air conditioning,Forced air,1599900.0,4,4,0,1
-45,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,1599000.0,3,2,0,1
-46,43.704284,-79.587129,Toronto,Detached,House,Central air conditioning,Forced air,1595000.0,4,4,0,0
-47,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,0,0
-48,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1498000.0,4,3,1,1
-49,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,1475000.0,4,3,0,0
-50,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1400000.0,4,3,0,0
-51,43.225693,-79.976692,Ancaster,Detached,House,Central air conditioning,Forced air,1399900.0,3,3,1,0
-52,43.713895,-79.486737,Toronto,Detached,House,Central air conditioning,Forced air,1399900.0,3,3,1,1
-53,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1398000.0,4,4,0,0
-54,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1379900.0,3,3,1,1
-55,43.793231,-79.263929,Toronto,Detached,House,Central air conditioning,Forced air,1350000.0,4,3,0,1
-56,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1350000.0,5,3,0,0
-57,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,1349000.0,4,4,0,1
-58,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1299999.0,3,2,1,1
-59,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1299999.0,3,2,1,0
-60,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1299000.0,4,4,0,1
-61,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,1279000.0,4,4,1,1
-62,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,1279000.0,4,3,1,0
-63,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,1250000.0,3,4,0,0
-64,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1249999.0,4,4,1,1
-65,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,"Baseboard heaters, Boiler",1249000.0,3,3,1,0
-66,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,1199900.0,4,3,0,0
-67,42.3167397,-83.0373389,Windsor,Detached,House,Central air conditioning,Forced air,1199900.0,5,4,0,0
-68,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,1199900.0,4,2,0,0
-69,43.33583,-80.06361,Flamborough,Detached,House,Central air conditioning,Forced air,1199000.0,3,3,0,0
-70,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1199000.0,3,4,1,1
-71,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1185000.0,3,2,1,0
-72,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1178888.0,3,3,0,1
-73,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1159900.0,4,3,0,1
-74,44.14125,-79.395028,East Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1150000.0,3,3,0,1
-75,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1125000.0,3,4,1,0
-76,44.014469,-79.323704,Whitchurch-Stouffville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1120000.0,3,3,1,0
-77,43.3314156,-79.8956803,Waterdown,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1099900.0,4,3,0,0
-78,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1099900.0,3,3,0,0
-79,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1099900.0,5,3,0,0
-80,43.766199,-79.18128,Toronto,Detached,House,Central air conditioning,Forced air,1099800.0,3,4,1,1
-81,43.687783,-79.450978,Toronto,Semi-Detached,House,Central air conditioning,Hot water radiator heat,1099000.0,3,3,0,0
-82,44.3150892,-79.5461073,Innisfil,Detached,House,Central air conditioning,Forced air,1098800.0,3,3,0,0
-83,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1070000.0,3,2,0,0
-84,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1070000.0,3,2,0,0
-85,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999999.0,3,3,1,0
-86,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,999999.0,4,2,1,0
-87,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,999900.0,4,4,1,1
-88,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999900.0,4,5,1,1
-89,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999900.0,3,4,1,0
-90,44.11697,-79.497616,East Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,988888.0,4,4,1,0
-91,43.513671,-79.882817,Milton,Semi-Detached,House,Central air conditioning,Forced air,979900.0,3,3,0,0
-92,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,979000.0,3,4,0,1
-93,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,930000.0,3,3,0,0
-94,42.8844706,-80.1139414,Jarvis,Detached,House,Central air conditioning,Forced air,914988.0,4,4,0,0
-95,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899900.0,2,3,1,0
-96,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,899900.0,3,3,0,1
-97,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,899299.0,4,3,1,0
-98,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899000.0,3,3,0,0
-99,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,899000.0,3,4,1,0
-100,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,899000.0,2,3,1,1
-101,44.118081,-79.618447,Bradford West Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,894800.0,3,4,0,0
-102,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,889000.0,4,3,0,1
-103,42.3791473,-82.2102956,Chatham,Detached,House,Central air conditioning,Forced air,875000.0,2,3,0,0
-104,44.5445701,-79.54891085886374,Oro-Medonte,Townhouse,Row / Townhouse,Central air conditioning,Forced air,864900.0,2,3,1,1
-105,44.376812,-79.470068,Georgina,Detached,House,Central air conditioning,Forced air,849900.0,3,1,0,1
-106,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,849000.0,3,3,0,0
-107,45.274101,-75.27935,Embrun,Detached,House,Central air conditioning,Forced air,849000.0,3,4,0,1
-108,43.636597,-79.432422,Toronto,Townhouse,Row / Townhouse,Wall unit,Baseboard heaters,836000.0,2,1,1,0
-109,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,799999.0,3,3,0,0
-110,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799991.0,2,2,0,0
-111,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,799900.0,4,2,0,0
-112,43.8505287,-79.0208814,Ajax,Semi-Detached,House,Central air conditioning,Forced air,799000.0,4,4,0,0
-113,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,799000.0,3,3,1,0
-114,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,775000.0,3,2,0,1
-115,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749900.0,4,3,0,1
-116,42.3048504,-82.5479704,Stoney Point,Detached,House,Central air conditioning,Forced air,749900.0,3,1,0,0
-117,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,749900.0,3,3,1,0
-118,43.121034,-79.804001,Binbrook,Townhouse,Row / Townhouse,Central air conditioning,Forced air,718850.0,3,4,0,0
-119,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,699990.0,5,2,1,0
-120,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,699900.0,2,2,1,0
-121,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,699900.0,2,2,1,0
-122,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,699000.0,3,1,1,0
-123,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699000.0,3,2,0,0
-124,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,699000.0,2,2,1,0
-125,43.621861,-79.943877,Halton Hills,Semi-Detached,House,Central air conditioning,Forced air,695000.0,3,2,0,0
-126,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,689999.0,2,3,0,0
-127,43.3600536,-80.3123023,Cambridge,Townhouse,Row / Townhouse,Central air conditioning,Forced air,669900.0,3,4,0,1
-128,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,655000.0,3,3,0,0
-129,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,650000.0,2,2,1,0
-130,45.3341367,-75.2519986,Limoges,Detached,House,None,Forced air,564900.0,3,1,0,0
-131,45.3341367,-75.2519986,Limoges,Semi-Detached,House,None,Forced air,554900.0,3,3,0,0
-132,44.2963945,-77.5485522,Stirling,Detached,House,Central air conditioning,Forced air,545000.0,3,2,1,1
-133,43.1408157,-80.2631733,Brantford,Detached,House,Central air conditioning,Forced air,499900.0,2,2,0,0
-134,44.2963945,-77.5485522,Stirling,Detached,House,Central air conditioning,"Forced air, Heat Pump",499900.0,3,2,1,1
-135,45.4413007,-74.8986384,Fournier,Detached,House,Central air conditioning,Forced air,449900.0,3,2,0,0
-136,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,Forced air,429900.0,3,2,0,0
-137,43.9526078,-77.34742339,Prince Edward County,Detached,House,Central air conditioning,Forced air,429900.0,2,2,0,0
-138,44.6310905,-81.268759,South Bruce Peninsula,Detached,House,None,"Baseboard heaters, Forced air",429000.0,3,1,0,0
-139,42.7838172,-82.126915,Oil Springs,Detached,House,None,Boiler,389900.0,4,2,0,0
-140,42.9746137,-82.4065585,Sarnia,Detached,House,None,Forced air,324900.0,2,1,0,0
-141,44.7164408,-79.77099198066065,Tay,Detached,Mobile Home,Window air conditioner,Baseboard heaters,299900.0,2,1,0,1
-142,43.73952294,-79.4150904,Toronto,Detached,House,Central air conditioning,Forced air,3000000.0,4,4,0,1
-143,43.767383,-79.411426,Toronto,Detached,House,Central air conditioning,Forced air,2988000.0,5,6,1,1
-144,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2495000.0,4,5,1,1
-145,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2388000.0,6,6,0,0
-146,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2299900.0,5,5,1,1
-147,43.668236,-79.420351,Toronto,Semi-Detached,House,Central air conditioning,Radiant heat,2200000.0,4,4,1,0
-148,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2199888.0,5,4,1,1
-149,43.729413,-79.39237,Toronto,Detached,House,Central air conditioning,Radiant heat,2198000.0,3,4,1,1
-150,43.710815,-79.418648,Toronto,Detached,House,Central air conditioning,Forced air,2188000.0,3,4,0,1
-152,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2099888.0,5,4,1,1
-153,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2050000.0,4,5,0,1
-154,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1998000.0,4,4,1,1
-155,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,1968888.0,4,5,1,1
-156,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1949900.0,4,4,1,1
-157,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1899900.0,4,4,1,1
-158,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1899000.0,4,4,1,1
-159,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1898888.0,4,5,0,1
-160,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1799999.0,3,4,0,1
-161,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1799999.0,3,4,0,0
-162,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,1799900.0,4,5,0,1
-163,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1699000.0,4,3,0,1
-164,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1698880.0,4,4,1,1
-165,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1679000.0,4,4,0,1
-166,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,1649000.0,3,3,0,1
-167,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1649000.0,3,4,1,1
-168,43.768097,-79.492601,Toronto,Detached,House,Central air conditioning,Forced air,1580000.0,3,3,1,1
-169,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1579000.0,4,3,0,0
-170,43.686567,-79.337066,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1549900.0,4,3,0,0
-171,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,1,1
-172,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1499000.0,3,3,0,1
-173,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1499000.0,3,3,1,1
-174,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1499000.0,3,3,1,0
-175,43.650005,-79.482809,Toronto,Detached,House,Wall unit,Hot water radiator heat,1499000.0,3,2,1,1
-176,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1488800.0,4,4,0,1
-177,43.676218,-79.291151,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1479000.0,3,4,1,1
-178,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1399900.0,4,2,1,1
-179,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1399900.0,4,2,1,0
-180,44.1150554,-78.90598875892695,Scugog,Detached,House,Central air conditioning,Forced air,1399000.0,2,4,1,1
-181,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1388000.0,3,4,1,1
-182,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1349900.0,4,5,1,1
-183,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1349000.0,3,2,0,0
-184,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1349000.0,3,2,0,1
-185,44.0818996,-79.77443058053504,New Tecumseth,Detached,House,Central air conditioning,Forced air,1320000.0,4,4,0,1
-186,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1299999.0,4,4,0,1
-187,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1299999.0,4,4,0,1
-188,44.7382893,-80.12709935653204,Tiny,Detached,House,Central air conditioning,Forced air,1289999.0,3,3,1,1
-189,43.686567,-79.337066,Toronto,Detached,House,Central air conditioning,Forced air,1200000.0,3,2,0,1
-190,43.2661904,-79.9546341,Dundas,Detached,House,Central air conditioning,Forced air,1199900.0,3,3,1,0
-191,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1199900.0,5,3,1,1
-192,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,1199000.0,3,4,0,1
-193,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1195000.0,3,1,0,1
-194,43.602637,-79.506096,Toronto,Detached,House,Central air conditioning,Forced air,1189000.0,3,2,1,0
-195,43.687783,-79.450978,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1189000.0,3,3,0,1
-196,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1188000.0,3,4,1,1
-197,43.447436,-79.666672,Oakville,Semi-Detached,House,Central air conditioning,Forced air,1177777.0,3,4,0,1
-198,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1175000.0,4,3,0,1
-199,44.34159575,-79.34615813017496,Georgina,Detached,House,Central air conditioning,Forced air,1169900.0,3,2,0,1
-200,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,1150000.0,3,4,0,1
-201,42.2928986,-82.7113352,Belle River,Detached,House,Central air conditioning,Forced air,1149999.0,4,4,1,0
-202,44.190608,-78.46896060471727,Cavan Monaghan,Detached,House,Central air conditioning,Forced air,1124900.0,4,4,0,1
-203,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Baseboard heaters,1100000.0,5,3,1,1
-204,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1099999.0,3,3,1,0
-205,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,1099000.0,4,4,1,1
-206,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1098000.0,3,3,1,1
-208,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,1089000.0,2,2,1,0
-209,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1075000.0,4,4,0,0
-210,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1049900.0,3,4,0,0
-211,43.650381,-79.55204,Toronto,Detached,House,Central air conditioning,Forced air,1049900.0,3,2,1,0
-212,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1049000.0,3,3,0,0
-213,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,1049000.0,3,4,1,0
-214,43.513671,-79.882817,Milton,Semi-Detached,House,Central air conditioning,Forced air,1048888.0,3,3,0,1
-215,43.660438,-79.465004,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1000000.0,3,2,0,0
-216,43.842903,-79.89885,Caledon,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999900.0,3,2,0,0
-217,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,999900.0,4,3,0,1
-218,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,999900.0,3,4,1,1
-219,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,999900.0,3,2,1,0
-220,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999888.0,2,3,1,0
-221,43.656078,-79.36364,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999000.0,3,2,1,1
-222,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,999000.0,3,3,0,0
-223,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,998800.0,3,3,0,1
-224,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,979000.0,3,3,0,0
-225,43.690678,-79.313802,Toronto,Semi-Detached,House,Central air conditioning,Forced air,949000.0,3,3,0,0
-226,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,949000.0,3,3,0,1
-227,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,929000.0,3,3,0,1
-228,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,925000.0,2,2,0,0
-229,43.5460516,-80.2493276,Guelph,Townhouse,Row / Townhouse,Central air conditioning,Forced air,919900.0,3,3,0,0
-230,43.731742,-79.262514,Toronto,Detached,House,Central air conditioning,Forced air,899900.0,5,3,1,0
-231,43.693021,-79.532953,Toronto,Detached,House,Central air conditioning,Forced air,899900.0,3,2,1,0
-232,43.727586,-79.517186,Toronto,Semi-Detached,House,Central air conditioning,Forced air,899900.0,3,2,0,0
-233,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,899900.0,3,3,0,1
-234,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899000.0,3,3,0,0
-235,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,1
-237,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,879000.0,3,4,1,1
-238,43.3248924,-79.7966835,Burlington,Semi-Detached,House,Central air conditioning,Forced air,869900.0,3,2,0,0
-239,43.2556116,-79.0723264,Niagara-on-the-Lake,Detached,House,Central air conditioning,Forced air,868000.0,2,1,0,1
-240,44.4233365,-78.2721953,Lakefield,Detached,House,Central air conditioning,Forced air,865000.0,1,3,1,1
-241,45.4810323,-75.5100002,Orleans,Detached,House,Central air conditioning,Forced air,849900.0,5,3,0,1
-242,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,849900.0,3,3,1,1
-243,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,849000.0,4,4,0,1
-244,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,849000.0,4,2,0,0
-245,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,829900.0,4,3,0,0
-246,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,827777.0,3,3,1,0
-247,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,"Forced air, Heat Pump",825000.0,3,3,0,0
-248,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,Forced air,825000.0,3,3,0,1
-249,43.38339,-80.6997,New Hamburg,Detached,House,Central air conditioning,Hot water radiator heat,809000.0,5,3,0,0
-250,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799999.0,3,3,0,0
-251,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,799900.0,3,2,1,1
-252,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,799900.0,4,3,0,1
-253,45.0617824,-75.5175929,Hallville,Detached,House,Central air conditioning,Forced air,799900.0,3,2,0,1
-254,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,3,0,0
-255,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,799900.0,3,3,1,0
-256,42.265799,-83.024291,Windsor,Detached,House,Central air conditioning,Forced air,799000.0,4,4,0,0
-257,44.078473,-80.203431,Shelburne,Semi-Detached,House,Central air conditioning,Forced air,799000.0,4,3,0,1
-258,43.99973,-79.467545,Aurora,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,3,3,0,0
-259,44.36827245,-80.06694742944002,Clearview,Detached,House,Central air conditioning,Forced air,799000.0,4,3,0,1
-260,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,799000.0,3,3,0,1
-261,43.621861,-79.943877,Halton Hills,Semi-Detached,House,Window air conditioner,Hot water radiator heat,799000.0,3,2,0,0
-262,43.752068,-79.397935,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,2,3,1,1
-263,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,789900.0,3,3,1,1
-264,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,789000.0,4,2,0,1
-265,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,779900.0,3,2,1,0
-266,43.0445702,-79.2838481,Pelham,Detached,House,Central air conditioning,Forced air,774900.0,3,2,0,0
-267,44.43605,-81.38981,Port Elgin,Detached,House,Central air conditioning,Forced air,759900.0,3,3,1,0
-268,45.2573172,-75.3583264,Russell,Detached,House,Central air conditioning,Forced air,754900.0,3,3,1,0
-269,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,749900.0,3,3,1,0
-270,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,749900.0,2,2,1,0
-271,43.87982,-78.9421751,Whitby,Semi-Detached,House,Central air conditioning,Forced air,749900.0,3,2,1,1
-272,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Baseboard heaters,749900.0,1,2,1,0
-273,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,749900.0,3,3,0,1
-274,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,719900.0,2,2,1,0
-275,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,719900.0,3,2,0,0
-276,43.064089,-79.931618,Haldimand,Detached,House,Central air conditioning,Forced air,719000.0,3,2,0,1
-277,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,719000.0,3,2,0,0
-278,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,699900.0,3,2,0,0
-279,42.327396,-82.909689,Windsor,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,699900.0,2,3,1,0
-280,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,None,Forced air,699900.0,2,1,0,0
-281,44.3366441,-78.01036153346413,Asphodel-Norwood,Detached,House,Central air conditioning,Forced air,699900.0,4,3,0,0
-282,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699900.0,3,2,0,0
-283,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,699900.0,3,3,0,1
-284,42.1744783,-82.8215468,Essex,Detached,House,Heat Pump,Heat Pump,699900.0,2,2,1,0
-285,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,699000.0,3,2,0,1
-286,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,699000.0,3,3,0,1
-287,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,699000.0,4,2,1,0
-288,43.8975558,-78.8635324,Oshawa,Semi-Detached,House,Central air conditioning,Forced air,689000.0,4,3,0,0
-289,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,688000.0,3,3,1,0
-290,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,679900.0,2,2,1,1
-291,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,669900.0,2,2,1,0
-292,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,659900.0,3,3,0,1
-293,43.17354975,-79.41600688766434,Lincoln,Townhouse,Row / Townhouse,Central air conditioning,Forced air,650000.0,3,3,0,0
-294,43.1579812,-79.2441003,St. Catharines,Townhouse,Row / Townhouse,Central air conditioning,Forced air,649900.0,3,3,0,0
-295,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,629900.0,3,1,0,0
-296,43.811594,-79.188405,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,629000.0,2,2,1,0
-297,42.9922181,-79.2484192,Welland,Townhouse,Row / Townhouse,Central air conditioning,Hot water radiator heat,625000.0,3,4,0,0
-299,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599900.0,3,3,0,0
-300,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,599900.0,3,3,0,0
-301,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,599900.0,4,3,0,0
-302,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Wall unit,"Radiant heat, Boiler",599800.0,2,2,1,0
-303,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,599800.0,2,2,0,0
-304,44.23891108888889,-79.45252973333334,Georgina,Detached,House,Central air conditioning,Forced air,599000.0,2,1,0,0
-305,43.1408157,-80.2631733,Brantford,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599000.0,2,3,0,0
-306,45.313529,-75.086746,Casselman,Detached,House,Central air conditioning,Forced air,599000.0,2,3,1,1
-307,43.451291,-80.4927815,Kitchener,Townhouse,Row / Townhouse,Central air conditioning,Forced air,590000.0,2,1,0,0
-308,45.1403366,-76.1465672,Carleton Place,Townhouse,Row / Townhouse,Central air conditioning,Forced air,584900.0,3,3,0,1
-309,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,554000.0,3,3,0,0
-310,45.274101,-75.27935,Embrun,Townhouse,Row / Townhouse,Central air conditioning,Forced air,539900.0,2,2,1,0
-311,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,539900.0,3,2,0,0
-313,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,499900.0,3,2,0,0
-314,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,479000.0,3,3,0,1
-315,42.0378963,-82.7396606,Kingsville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,469900.0,2,3,1,0
-316,42.0378963,-82.7396606,Kingsville,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,469900.0,2,3,1,0
-317,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,469000.0,3,2,0,0
-319,42.0531166,-82.5996998,Leamington,Detached,House,Heat Pump,"Baseboard heaters, Heat Pump",439900.0,2,2,0,0
-320,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,439900.0,3,2,0,0
-321,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,425000.0,3,2,0,0
-322,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,419900.0,2,2,0,1
-323,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Baseboard heaters,399900.0,3,2,0,0
-324,42.15008,-82.96654,McGregor,Detached,House,Central air conditioning,Forced air,399900.0,3,1,0,0
-325,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,399480.0,2,2,0,0
-326,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,399000.0,1,1,0,0
-327,45.1412662,-74.4999495,Lancaster,Detached,House,None,Baseboard heaters,309900.0,2,2,0,1
-328,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,299900.0,2,1,0,0
-329,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,279900.0,3,1,0,0
-330,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,274900.0,3,2,0,0
-331,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,249900.0,2,1,0,0
-333,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,219900.0,2,1,0,0
-334,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1.0,4,4,0,1
-335,43.676218,-79.291151,Toronto,Detached,House,Central air conditioning,Forced air,2999990.0,3,3,1,0
-336,43.648806,-79.413855,Toronto,Detached,House,Central air conditioning,Forced air,2999990.0,3,3,1,0
-337,43.686359,-79.40231,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2795000.0,3,3,0,1
-338,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,2780000.0,5,6,1,1
-339,43.650005,-79.482809,Toronto,Detached,House,Central air conditioning,Forced air,2775000.0,5,5,0,1
-340,43.729413,-79.39237,Toronto,Detached,House,Central air conditioning,Forced air,2688000.0,4,3,0,1
-341,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,2575000.0,3,4,1,1
-342,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2499999.0,5,5,1,1
-343,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2348000.0,4,5,1,1
-344,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2337000.0,5,5,1,1
-345,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2288888.0,5,4,0,1
-346,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1989000.0,4,5,1,1
-347,43.754227,-79.328265,Toronto,Detached,House,Central air conditioning,Forced air,1880000.0,4,4,1,1
-348,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,1725000.0,3,3,1,1
-349,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1699900.0,5,4,0,1
-350,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1688000.0,4,5,1,1
-351,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,1688000.0,4,3,1,1
-352,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1599000.0,4,4,1,1
-353,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,1549000.0,4,3,0,0
-354,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,0,1
-355,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,1,1
-356,43.680156,-79.374616,Toronto,Detached,House,Central air conditioning,Forced air,1495000.0,4,1,0,1
-357,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1479900.0,3,4,0,1
-358,44.11697,-79.497616,East Gwillimbury,Detached,House,Central air conditioning,Forced air,1399900.0,4,3,0,1
-359,43.660438,-79.465004,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1399000.0,3,3,0,0
-360,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,"Hot water radiator heat, Radiant heat",1395000.0,4,3,0,0
-361,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1389900.0,2,3,1,1
-362,43.71275,-79.406626,Toronto,Detached,House,Central air conditioning,Forced air,1388000.0,3,3,0,0
-363,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,1349999.0,4,4,0,0
-364,43.225693,-79.976692,Ancaster,Detached,House,Central air conditioning,Forced air,1349900.0,3,5,1,0
-365,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1349000.0,4,5,0,1
-366,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1299800.0,4,4,1,1
-367,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1299000.0,4,4,1,1
-368,43.64877,-79.38171,Toronto,Detached,House,Central air conditioning,Forced air,1299000.0,4,3,0,1
-369,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1298000.0,4,4,0,1
-370,43.8563707,-79.3376825,Markham,Semi-Detached,House,Central air conditioning,Forced air,1288880.0,4,6,1,0
-371,43.92856,-79.52694,King City,Detached,House,Central air conditioning,Forced air,1250000.0,3,2,1,0
-372,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1249900.0,3,3,0,1
-373,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1249000.0,2,2,1,1
-374,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,1225000.0,3,3,1,1
-375,43.626816,-79.516419,Toronto,Detached,House,Central air conditioning,Forced air,1200000.0,3,1,1,0
-376,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,1199000.0,4,3,0,0
-377,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1150000.0,4,4,1,1
-378,42.2450635,-83.0606534,LaSalle,Detached,House,"Central air conditioning, Fully air conditioned",Forced air,1149000.0,4,4,1,0
-379,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,1129000.0,3,3,0,1
-380,44.7382893,-80.12709935653204,Tiny,Detached,House,Central air conditioning,Forced air,1100000.0,2,3,1,1
-381,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1099990.0,3,4,0,0
-383,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,1099000.0,3,4,0,1
-384,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,1099000.0,3,4,1,1
-385,44.056258,-79.461708,Newmarket,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1098000.0,3,3,0,0
-386,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1095000.0,3,2,1,1
-388,45.3917725,-76.1883413,Kinburn,Detached,House,Central air conditioning,Forced air,999999.0,3,2,0,0
-389,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,999905.0,4,3,0,0
-391,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,999000.0,4,3,1,0
-392,43.657016,-79.338932,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999000.0,3,3,0,0
-393,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999000.0,3,4,0,0
-394,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,999000.0,4,4,1,0
-395,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,999000.0,3,4,1,0
-396,43.731742,-79.262514,Toronto,Detached,House,Central air conditioning,Baseboard heaters,999000.0,3,2,1,0
-397,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,999000.0,4,3,0,1
-398,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,999000.0,4,3,1,1
-399,43.5896231,-79.6443879,Mississauga,Detached,House,Wall unit,Forced air,999000.0,2,1,0,1
-400,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,998900.0,3,4,0,1
-401,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,998700.0,3,3,1,1
-402,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,998000.0,3,3,0,0
-403,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Radiant heat,995000.0,3,3,0,1
-404,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,995000.0,3,3,0,0
-405,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,988000.0,3,3,0,0
-406,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,974900.0,4,3,0,1
-408,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,949900.0,2,3,1,1
-409,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,949000.0,3,3,1,1
-410,43.71351605,-80.3920235,Fergus,Detached,House,Central air conditioning,Forced air,939900.0,4,3,0,1
-411,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,934900.0,3,3,1,0
-412,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,928000.0,2,3,0,1
-413,43.1301111,-80.7562977,Woodstock,Detached,House,Central air conditioning,Forced air,915000.0,2,3,1,1
-414,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,899999.0,4,4,1,0
-415,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,899999.0,4,4,1,0
-416,43.687783,-79.450978,Toronto,Detached,House,Central air conditioning,Forced air,899900.0,2,1,1,0
-417,43.64877,-79.38171,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899900.0,2,3,1,0
-418,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,899900.0,3,4,1,0
-419,43.690678,-79.313802,Toronto,Detached,House,Wall unit,Forced air,899000.0,2,2,0,0
-420,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,899000.0,3,3,0,1
-421,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,899000.0,3,3,0,0
-422,44.83187403333333,-79.7367417,Georgian Bay,Detached,House,Central air conditioning,Forced air,898999.0,3,3,0,1
-423,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,898000.0,4,2,1,0
-425,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,875000.0,3,3,0,1
-426,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,855900.0,3,3,1,1
-427,43.676479,-79.481669,Toronto,Semi-Detached,House,Central air conditioning,Forced air,849900.0,3,2,1,0
-428,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,849900.0,3,2,0,0
-429,45.2550212,-75.1221013,St Albert,Detached,House,Central air conditioning,Forced air,849900.0,3,3,1,0
-430,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,839000.0,3,3,0,0
-431,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,800000.0,3,2,0,1
-432,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Heat Pump,799999.0,2,2,1,1
-433,42.3117951,-82.8861974,Tecumseh,Detached,House,Central air conditioning,Forced air,799900.0,5,4,1,0
-434,42.2450635,-83.0606534,LaSalle,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,799900.0,2,3,1,0
-435,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799898.0,3,4,0,0
-436,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,799000.0,3,2,1,0
-437,42.949626,-81.340963,London,Detached,House,Central air conditioning,Forced air,799000.0,4,4,1,0
-438,42.2450635,-83.0606534,LaSalle,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,798888.0,2,2,0,0
-439,42.418259,-82.202405,Chatham,Detached,House,Central air conditioning,Forced air,787700.0,3,2,0,0
-440,42.28382,-82.997089,Windsor,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,779900.0,2,3,1,0
-441,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,779000.0,4,3,0,1
-443,44.7546878,-79.51491635139335,Severn,Detached,House,Wall unit,Baseboard heaters,749900.0,4,1,0,1
-444,44.7612581,-75.738843,North Augusta,Detached,House,None,Forced air,749000.0,3,3,1,0
-445,44.190608,-78.46896060471727,Cavan-Monaghan,Detached,House,Central air conditioning,Forced air,739900.0,3,2,0,1
-446,45.2573172,-75.3583264,Russell,Detached,House,Central air conditioning,Forced air,725000.0,3,2,0,1
-447,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,720000.0,3,2,0,0
-448,44.376812,-79.470068,Georgina,Detached,House,Central air conditioning,Forced air,699999.0,3,3,1,1
-449,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,699900.0,4,3,0,0
-450,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,699900.0,3,3,0,1
-451,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,699900.0,4,3,1,0
-452,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699900.0,2,2,0,0
-453,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,699888.0,3,4,0,1
-454,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699000.0,3,2,0,0
-455,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,698800.0,3,2,1,0
-456,44.2344356,-79.8063686586334,Essa,Semi-Detached,House,Central air conditioning,Forced air,679900.0,3,4,0,0
-457,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,679900.0,3,2,0,1
-458,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,679000.0,3,3,0,1
-459,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,669900.0,3,3,0,1
-460,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,659900.0,3,3,0,0
-461,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,649900.0,3,2,0,0
-462,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,649000.0,2,2,1,0
-463,43.451291,-80.4927815,Kitchener,Townhouse,Row / Townhouse,Central air conditioning,Forced air,645000.0,2,3,0,0
-464,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,639000.0,2,2,1,1
-465,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,625000.0,1,2,1,0
-466,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,621000.0,3,1,0,0
-467,43.8975558,-78.8635324,Oshawa,Detached,House,Window air conditioner,Forced air,600000.0,2,2,0,0
-468,46.49272,-80.991211,Greater Sudbury,Detached,House,"Air exchanger, Central air conditioning",Forced air,599900.0,3,3,0,0
-469,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,599900.0,3,4,0,1
-470,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599900.0,2,2,0,0
-471,43.1065603,-79.0639039,Niagara Falls,Detached,House,Central air conditioning,Forced air,589500.0,4,1,0,0
-474,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,549000.0,3,2,0,0
-475,45.433515,-76.3543692,Arnprior,Detached,House,Central air conditioning,Forced air,525000.0,3,2,0,0
-476,45.8984286,-77.2826645,Petawawa,Detached,House,Central air conditioning,Forced air,525000.0,3,2,1,0
-477,45.1403366,-76.1465672,Carleton Place,Detached,House,Central air conditioning,Forced air,514900.0,3,2,0,0
-480,46.48338,-80.84973,Coniston,Detached,House,Central air conditioning,Forced air,499900.0,3,2,0,0
-482,42.331405,-82.942044,Windsor,Detached,House,Central air conditioning,Forced air,499900.0,3,2,1,0
-483,43.727832,-79.344634,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,499900.0,3,2,0,0
-484,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,499000.0,3,3,0,0
-485,45.1332585,-75.7165345,North Gower,Detached,House,Wall unit,"Hot water radiator heat, Radiant heat",499000.0,2,2,0,0
-486,45.4208777,-75.6901106,Ottawa,Detached,House,Window air conditioner,Forced air,499000.0,2,1,0,0
-487,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,489900.0,3,1,0,0
-488,46.10347,-80.550384,Alban,Detached,House,Central air conditioning,"Forced air, Wood Stove",460000.0,5,2,0,0
-489,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,449900.0,3,1,0,0
-490,45.4720417,-76.6838617,Renfrew,Townhouse,Row / Townhouse,Central air conditioning,Forced air,445000.0,2,1,0,0
-491,42.418259,-82.202405,Chatham,Detached,House,Central air conditioning,Forced air,444900.0,3,2,1,0
-492,42.0531166,-82.5996998,Leamington,Townhouse,Row / Townhouse,Heat Pump,"Baseboard heaters, Heat Pump",439900.0,2,2,0,0
-493,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,439900.0,2,1,0,0
-494,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,439900.0,2,1,0,0
-495,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,429900.0,2,1,0,0
-496,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,429900.0,2,1,0,0
-497,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,424900.0,3,2,0,0
-498,46.5521017,-81.1148103,Azilda,Detached,House,Central air conditioning,Boiler,399900.0,5,2,0,0
-499,45.3112037,-74.6367573,Alexandria,Semi-Detached,House,Central air conditioning,Forced air,394900.0,2,2,0,1
-502,42.265799,-83.024291,Windsor,Detached,House,Central air conditioning,Forced air,349900.0,3,1,0,0
-503,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,299900.0,4,2,0,0
-504,42.29533,-83.024461,Windsor,Detached,House,Central air conditioning,Forced air,299000.0,2,1,0,0
-505,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,259900.0,2,1,0,0
-506,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,2980000.0,4,5,1,1
-507,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2850000.0,4,5,1,1
-508,43.710815,-79.418648,Toronto,Semi-Detached,House,Central air conditioning,Forced air,2679000.0,3,4,1,1
-509,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2199000.0,4,4,0,1
-510,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2199000.0,4,4,1,1
-511,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,2188000.0,4,4,1,1
-512,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2048000.0,5,5,1,1
-513,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1999000.0,4,4,1,1
-514,43.71275,-79.406626,Toronto,Detached,House,Central air conditioning,Forced air,1995000.0,3,3,1,1
-515,43.646081,-79.576748,Toronto,Detached,House,Central air conditioning,Forced air,1950000.0,5,4,1,1
-516,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1899999.0,4,4,1,1
-517,43.671561,-79.403274,Toronto,Detached,House,Central air conditioning,Forced air,1799000.0,3,4,1,1
-518,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,1775000.0,5,4,0,1
-519,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1749900.0,4,4,1,1
-520,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1699000.0,4,4,0,1
-521,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1699000.0,4,3,0,1
-522,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,1688888.0,3,4,0,1
-523,43.5904294,-79.5433932,Toronto,Detached,House,Central air conditioning,Forced air,1649900.0,4,4,0,1
-524,43.665276,-79.438009,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1639000.0,3,4,1,1
-525,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1599000.0,3,3,0,1
-526,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1595000.0,2,2,0,0
-527,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1549000.0,4,5,1,1
-528,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1536000.0,2,4,1,1
-529,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,1535000.0,3,4,1,0
-530,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1499000.0,3,2,1,1
-531,43.713691,-79.389435,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1499000.0,3,3,1,0
-532,43.67089,-79.316931,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1499000.0,4,2,0,1
-533,44.14125,-79.395028,East Gwillimbury,Detached,House,Central air conditioning,Forced air,1468000.0,5,4,1,1
-534,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1399900.0,3,2,1,0
-535,43.7174721,-80.68926371473657,Mapleton,Detached,House,Central air conditioning,Forced air,1399000.0,3,2,0,1
-536,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1399000.0,3,2,1,1
-537,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1388000.0,4,4,1,1
-538,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1386000.0,5,5,1,1
-539,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1386000.0,4,4,0,0
-540,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,1374900.0,3,3,1,0
-542,43.713691,-79.389435,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1349000.0,3,3,1,0
-543,43.801685,-79.32186,Toronto,Detached,House,Central air conditioning,Forced air,1299900.0,3,4,1,1
-544,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,1299000.0,4,3,0,1
-545,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1299000.0,3,3,0,1
-546,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1299000.0,4,4,0,0
-547,43.751661,-79.447657,Toronto,Detached,House,Central air conditioning,Forced air,1299000.0,3,2,1,0
-548,43.650005,-79.482809,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1298000.0,3,2,0,0
-549,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1298000.0,4,3,0,1
-550,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1298000.0,3,3,0,1
-551,44.097441700000005,-78.04760303007441,Alnwick/Haldimand,Detached,House,Central air conditioning,Forced air,1295000.0,3,3,1,1
-552,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1290000.0,4,3,0,0
-553,43.648806,-79.413855,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1279000.0,2,2,1,0
-554,43.687783,-79.450978,Toronto,Detached,House,Central air conditioning,Forced air,1275000.0,3,2,1,1
-555,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1249999.0,3,2,1,0
-556,43.621861,-79.943877,Halton Hills,Detached,House,Wall unit,Forced air,1249000.0,3,2,0,1
-557,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1225000.0,4,4,0,0
-558,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1200000.0,4,4,0,0
-559,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,1200000.0,4,3,0,1
-560,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,1199900.0,4,4,0,0
-561,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1199900.0,3,2,1,0
-563,43.686567,-79.337066,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1150000.0,3,2,1,1
-564,43.1931661,-79.560677,Grimsby,Detached,House,Central air conditioning,Forced air,1149900.0,4,3,0,0
-565,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1099999.0,4,4,0,0
-566,43.99973,-79.467545,Aurora,Semi-Detached,House,Central air conditioning,Forced air,1098000.0,3,4,0,0
-567,44.014469,-79.323704,Whitchurch-Stouffville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1087000.0,3,3,0,0
-568,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1050000.0,3,1,1,0
-569,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,1050000.0,3,3,0,1
-570,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1049000.0,4,3,1,1
-571,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1025000.0,3,3,0,0
-572,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,999999.0,3,2,1,0
-573,43.686567,-79.337066,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999999.0,3,2,0,0
-574,43.632597,-79.494149,Toronto,Detached,House,Central air conditioning,Heat Pump,999900.0,3,2,1,0
-575,44.078473,-80.203431,Shelburne,Detached,House,Central air conditioning,Forced air,999900.0,5,4,0,1
-576,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,999000.0,4,2,0,0
-577,43.686567,-79.337066,Toronto,Detached,House,Central air conditioning,Forced air,999000.0,2,3,1,0
-578,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,998999.0,3,3,1,0
-579,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,995000.0,3,3,0,0
-580,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Boiler,964000.0,4,4,1,0
-581,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,954000.0,3,4,1,1
-582,43.99973,-79.467545,Aurora,Townhouse,Row / Townhouse,Central air conditioning,Forced air,949000.0,3,3,0,0
-584,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,945000.0,4,4,0,1
-585,43.2556116,-79.0723264,Niagara-on-the-Lake,Detached,House,Central air conditioning,Forced air,919000.0,3,1,0,0
-586,43.8505287,-79.0208814,Ajax,Semi-Detached,House,Central air conditioning,Forced air,899999.0,3,3,0,0
-587,46.5691573,-81.1978944,Chelmsford,Detached,House,Central air conditioning,Forced air,899900.0,4,2,0,0
-588,44.078473,-80.203431,Shelburne,Detached,House,Central air conditioning,Forced air,899900.0,3,4,1,1
-589,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,899900.0,4,4,0,1
-590,42.7415823,-81.33191889735019,Southwold,Detached,House,Central air conditioning,Forced air,899700.0,4,3,0,0
-591,44.241045,-77.358813,Belleville,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,1
-592,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,0
-593,42.783344,-79.789826,Haldimand,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,0
-594,43.1931661,-79.560677,Grimsby,Detached,House,Central air conditioning,Forced air,899000.0,4,2,0,1
-595,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899000.0,3,3,1,1
-596,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,865000.0,4,3,0,1
-597,45.5501,-75.29101,Rockland,Detached,House,Central air conditioning,Forced air,849900.0,4,4,0,1
-598,44.5224813,-80.0203156,Wasaga Beach,Detached,House,Central air conditioning,Forced air,849900.0,3,3,1,0
-599,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,849900.0,3,3,0,1
-600,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,834900.0,4,3,1,1
-601,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,800000.0,3,3,0,0
-602,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,799999.0,3,2,0,0
-603,43.2167526,-79.7567616,Stoney Creek,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,4,0,0
-604,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,3,0,0
-606,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,4,0,1
-607,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,799900.0,2,3,1,0
-608,43.8505287,-79.0208814,Ajax,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,4,3,0,0
-609,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,799000.0,3,2,1,0
-610,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,799000.0,2,2,0,0
-611,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,799000.0,2,3,1,1
-612,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,2,2,1,0
-613,43.709229,-79.513598,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,3,2,1,0
-614,45.4208777,-75.6901106,Ottawa,Detached,House,Window air conditioner,Hot water radiator heat,794900.0,2,2,0,0
-615,43.835765,-79.090576,Pickering,Townhouse,Row / Townhouse,Central air conditioning,Forced air,789900.0,3,3,0,1
-616,43.758752,-79.519698,Toronto,Townhouse,Row / Townhouse,Window air conditioner,Baseboard heaters,780000.0,4,3,1,0
-617,42.9345071,-80.290768,Waterford,Detached,House,"Air exchanger, Central air conditioning",Forced air,779000.0,2,2,0,0
-618,43.835765,-79.090576,Pickering,Semi-Detached,House,Central air conditioning,Forced air,769998.0,3,2,1,0
-619,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,764990.0,3,3,0,0
-620,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,759900.0,3,3,0,0
-621,43.728584,-79.490851,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749000.0,3,2,1,0
-622,44.1150554,-78.90598875892695,Scugog,Detached,House,Central air conditioning,Forced air,745000.0,3,3,0,1
-623,44.4952483,-81.3713261,Saugeen Shores,Townhouse,Row / Townhouse,Central air conditioning,Forced air,744000.0,2,3,1,0
-624,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,729000.0,3,3,0,0
-625,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,725000.0,3,2,0,0
-626,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,724900.0,3,3,1,0
-627,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,699900.0,3,2,0,0
-628,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,699900.0,3,3,0,1
-629,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699900.0,3,2,0,0
-630,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,699900.0,3,3,1,0
-631,42.28382,-82.997089,Windsor,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699888.0,2,3,1,0
-632,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,699000.0,3,2,0,0
+,price,lat,lon,city,style,building_type,cooling_type,heating_type,number_of_beds,number_of_baths,extra_space,fire_place
+0,2688000.0,43.743931,-79.358975,Toronto,Detached,House,Central air conditioning,Forced air,3,3,0,1
+1,1899990.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,5,6,1,1
+2,1699900.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,5,5,0,1
+3,1200000.0,43.925186,-79.786421,Caledon,Detached,House,Central air conditioning,Forced air,3,3,1,1
+4,1020000.0,43.709229,-79.513598,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,1
+5,999900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,4,4,0,1
+6,999900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,3,1,0
+7,999000.0,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,4,5,0,1
+8,999000.0,43.660438,-79.465004,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+9,969900.0,43.9193171,-80.0973754,Orangeville,Detached,House,Central air conditioning,Forced air,3,2,0,1
+10,959900.0,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,3,4,1,1
+11,949900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,1
+12,874900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,4,1,0
+13,749900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+14,649000.0,44.078473,-80.203431,Shelburne,Detached,House,Central air conditioning,Forced air,3,4,1,1
+15,2799000.0,43.686567,-79.337066,Toronto,Semi-Detached,House,Central air conditioning,Forced air,4,5,1,1
+16,2790000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,5,1,0
+17,2388000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,3,0,1
+18,2100000.0,44.11697,-79.497616,East Gwillimbury,Detached,House,Central air conditioning,Forced air,3,4,1,1
+19,2099000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,3,0,0
+20,2099000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,3,0,1
+21,2099000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,4,1,0
+22,2099000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,4,1,1
+23,2098000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,4,5,0,1
+24,1880000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2,3,1,1
+25,1649900.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,4,1,1
+26,1600000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,2,1,1
+27,1599999.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,4,5,1,1
+28,1599000.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,3,5,1,1
+29,1599000.0,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,1
+30,1599000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,4,4,1,1
+31,1499000.0,43.632597,-79.494149,Toronto,Detached,House,Central air conditioning,Forced air,3,4,1,1
+32,1489000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,4,0,0
+33,1488000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,3,4,0,1
+34,1477000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,4,1,1
+35,1449900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,3,1,1
+36,1449000.0,43.690678,-79.313802,Toronto,Detached,House,Central air conditioning,Forced air,4,4,1,1
+37,1388888.0,44.49409275,-79.83172283448036,Springwater,Detached,House,Central air conditioning,Forced air,4,4,0,1
+38,1329000.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,0
+39,1299900.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,3,1,0
+40,1289000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,1,1
+41,1199999.0,43.77506,-80.070076,Erin,Detached,House,Central air conditioning,Forced air,3,3,1,1
+42,1150000.0,44.4952483,-81.3713261,Saugeen Shores,Detached,House,Central air conditioning,Forced air,3,2,0,1
+43,1139900.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,3,3,0,1
+44,1099900.0,43.76874,-79.214745,Toronto,Detached,House,Central air conditioning,Forced air,3,2,0,0
+45,1099000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,2,0,1
+46,1089000.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,3,2,0,0
+47,1088888.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Heat Pump,4,4,1,0
+48,999999.0,43.87982,-78.9421751,Whitby,Semi-Detached,House,Central air conditioning,Forced air,4,3,0,0
+49,999990.0,44.3150892,-79.5461073,Innisfil,Detached,House,Central air conditioning,Forced air,4,4,0,1
+50,999900.0,42.2450635,-83.0606534,LaSalle,Detached,House,"Central air conditioning, Fully air conditioned",Forced air,3,3,1,0
+51,999900.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,1
+52,999900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+53,999900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,4,4,0,0
+54,999900.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,3,0,0
+55,999900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,0,1
+56,999800.0,43.67089,-79.316931,Toronto,Detached,House,Central air conditioning,Forced air,3,3,0,1
+57,999000.0,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,4,3,1,0
+58,998990.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+59,998000.0,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+60,989800.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+61,989800.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,1
+62,989000.0,44.49409275,-79.83172283448036,Springwater,Detached,House,Central air conditioning,Forced air,4,4,1,1
+63,982000.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,3,4,0,1
+64,949000.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,3,4,1,1
+65,899999.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+66,899900.0,45.1403366,-76.1465672,Carleton Place,Detached,House,Central air conditioning,"Forced air, Radiant heat",4,3,0,1
+67,899900.0,43.16681,-79.48291,Beamsville,Detached,House,Central air conditioning,Forced air,3,2,0,0
+68,899900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,2,3,1,1
+69,899900.0,43.9515755,-78.2939704,Port Hope,Detached,House,Central air conditioning,Forced air,2,3,1,1
+70,899000.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+71,883000.0,44.3150892,-79.5461073,Innisfil,Detached,House,Central air conditioning,Forced air,3,3,1,0
+72,864500.0,43.712173,-79.284215,Toronto,Detached,House,Central air conditioning,Forced air,2,2,1,0
+73,849900.0,43.3032583,-80.6215757,Plattsville,Detached,House,Central air conditioning,Forced air,3,2,0,0
+74,849900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,3,0,0
+75,849000.0,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+77,825000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,2,0,1
+79,819900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,3,3,0,0
+80,819900.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+81,799999.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,1,0
+82,799900.0,44.241045,-77.358813,Belleville,Townhouse,Row / Townhouse,Central air conditioning,"In Floor Heating, Hot water radiator heat",3,2,0,0
+83,799900.0,43.1636485,-79.3604131,Jordan Station,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,1,0
+84,799000.0,42.3048504,-82.5479704,Stoney Point,Detached,House,Central air conditioning,Forced air,2,3,1,0
+85,799000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,2,0,0
+86,799000.0,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,3,3,1,0
+87,789900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+88,789900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,3,1,1
+89,774900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+90,769900.0,44.2344356,-79.8063686586334,Essa,Detached,House,Central air conditioning,Forced air,3,2,0,1
+91,750000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+92,749900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Wall unit,Forced air,4,3,0,1
+93,745000.0,44.0422275,-77.7370071,Brighton,Detached,House,Wall unit,Forced air,2,2,0,0
+94,739900.0,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,2,3,1,0
+95,739900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,0,0
+96,729000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+97,711998.0,43.451291,-80.4927815,Kitchener,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+98,699900.0,42.305669,-82.914658,Windsor,Detached,House,Central air conditioning,Forced air,3,3,0,0
+99,699000.0,43.2167526,-79.7567616,Stoney Creek,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+100,699000.0,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,3,3,1,1
+101,679900.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+102,679900.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+103,675000.0,42.959033,-81.235184,London,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+104,669900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,2,2,1,0
+105,660000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,1,0,0
+106,650000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,2,0,1
+107,629900.0,43.1408157,-80.2631733,Brantford,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,1
+108,599900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,3,1,0,0
+109,599900.0,42.2928986,-82.7113352,Belle River,Detached,House,Central air conditioning,Forced air,3,4,0,1
+110,599900.0,43.8975558,-78.8635324,Oshawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,1,0
+111,599900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,2,0,1
+112,599000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Heat Pump,3,2,1,0
+113,599000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,2,0,0
+114,579000.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,2,3,0,1
+115,569900.0,42.035586,-82.9183594,Harrow,Detached,House,Central air conditioning,Forced air,4,2,0,0
+116,559000.0,43.1510757,-79.3923803,Vineland,Detached,House,Central air conditioning,Forced air,2,3,1,0
+117,549900.0,42.327396,-82.909689,Windsor,Detached,House,Central air conditioning,Forced air,3,2,1,0
+118,540000.0,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,3,2,0,0
+120,539900.0,45.4810323,-75.5100002,Orleans,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+123,459900.0,44.1776378,-81.6348713,Kincardine,Detached,House,Central air conditioning,Forced air,3,3,0,0
+124,439000.0,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Wall unit,"Baseboard heaters, Other",3,3,0,1
+125,2549000.0,43.225693,-79.976692,Ancaster,Detached,House,Central air conditioning,Forced air,4,5,0,0
+126,2180000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,2,5,1,1
+127,1999000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,3,0,1
+128,1999000.0,43.710815,-79.418648,Toronto,Detached,House,Wall unit,Hot water radiator heat,4,4,0,1
+129,1990000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,5,0,1
+130,1900000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,1,0
+131,1869000.0,43.668236,-79.420351,Toronto,Semi-Detached,House,Wall unit,Hot water radiator heat,4,3,1,0
+132,1850000.0,44.1150554,-78.90598875892695,Scugog,Detached,House,Central air conditioning,Forced air,3,3,1,1
+133,1825000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,5,4,0,0
+134,1798800.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,0,1
+135,1749999.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,1,0
+136,1749900.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,3,1,1
+137,1699888.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,5,1,1
+139,1688000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,4,4,0,1
+140,1670000.0,43.754227,-79.328265,Toronto,Detached,House,Central air conditioning,Forced air,5,3,0,0
+141,1649900.0,43.650005,-79.482809,Toronto,Detached,House,Central air conditioning,Forced air,4,3,1,1
+142,1649900.0,43.729413,-79.39237,Toronto,Detached,House,Wall unit,Radiant heat,3,2,0,1
+143,1628000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,0,0
+144,1599000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,4,1,1
+145,1539888.0,43.447436,-79.666672,Oakville,Semi-Detached,House,Central air conditioning,Forced air,4,4,0,1
+146,1535000.0,43.842903,-79.89885,Caledon,Detached,House,Central air conditioning,Forced air,3,2,1,1
+147,1525000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,3,0,1
+148,1499900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,3,0,0
+149,1499900.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,4,3,0,1
+150,1499000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,3,0,1
+151,1498800.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,3,1,0
+152,1498000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,4,4,0,1
+153,1425000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,3,0,1
+154,1399900.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,4,4,1,0
+155,1399900.0,43.751661,-79.447657,Toronto,Detached,House,Central air conditioning,Forced air,3,4,1,1
+156,1399900.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,4,1,1
+157,1399000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,4,1,1
+158,1399000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,4,5,1,1
+159,1389900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,1,0
+160,1389900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,1,1
+161,1288000.0,44.0947417,-79.4483143,East Gwillimbury,Detached,House,Central air conditioning,Forced air,4,4,0,1
+163,1249900.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,4,4,0,1
+164,1249000.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,4,4,1,1
+165,1199900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,4,1,0
+166,1199000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,2,1,1
+167,1199000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+168,1199000.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,3,4,1,1
+169,1199000.0,43.676479,-79.481669,Toronto,Semi-Detached,House,Central air conditioning,Forced air,4,3,0,1
+170,1188800.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,4,1,1
+171,1100000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,2,0,0
+172,1100000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,2,0,0
+173,1099900.0,43.17354975,-79.41600688766434,Lincoln,Detached,House,Central air conditioning,Forced air,4,4,0,0
+174,1099900.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,3,3,1,0
+175,1099000.0,43.9193171,-80.0973754,Orangeville,Detached,House,Central air conditioning,Forced air,3,4,1,1
+176,1088000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,0,0
+177,1080000.0,43.752068,-79.397935,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,1,1
+178,1075000.0,43.6912632,-80.98352920005001,North Perth,Detached,House,Central air conditioning,Forced air,2,3,1,1
+179,1075000.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,4,4,1,1
+180,1068000.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,3,3,1,1
+181,1058000.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,4,0,1
+182,1050000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,4,0,1
+183,1049900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,3,3,1,1
+184,1030000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,3,0,0
+185,999998.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,3,0,1
+186,999900.0,43.3248924,-79.7966835,Burlington,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,0
+187,999900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,0,0
+188,999900.0,43.4652699,-80.5222961,Waterloo,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,1
+189,999900.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,0
+190,999900.0,43.3248924,-79.7966835,Burlington,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,1
+191,999900.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,4,4,0,1
+192,999900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,0,0
+193,999800.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,3,4,1,1
+194,999777.0,43.045278,-81.239696,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,4,1,0
+195,999777.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,4,1,1
+196,998900.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,3,4,0,1
+197,998000.0,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,2,2,1,0
+198,995000.0,44.15689,-81.827198,Huron-Kinloss,Detached,House,Central air conditioning,"Forced air, Heat Pump",4,3,0,0
+199,989900.0,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,"Forced air, Forced air",3,3,1,0
+200,988000.0,43.7941544,-79.5268023,Vaughan,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,0
+201,979900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,3,3,1,1
+202,969000.0,44.0554803,-78.21927325429056,Hamilton Township,Detached,House,Central air conditioning,Forced air,3,2,0,1
+203,968000.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,4,0,0
+204,949900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,3,0,1
+205,949000.0,44.5224813,-80.0203156,Wasaga Beach,Detached,House,Central air conditioning,Forced air,2,3,1,0
+206,949000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,1,0
+207,949000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,2,0,1
+208,929900.0,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,3,3,1,1
+209,925000.0,44.60149,-79.431535,Orillia,Detached,House,Central air conditioning,Forced air,5,2,0,1
+210,899999.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+211,899900.0,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+212,899900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Baseboard heaters,3,2,0,1
+213,899900.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,4,2,1,1
+214,899000.0,43.665276,-79.438009,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,1,0
+215,899000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,3,1,1
+216,899000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,4,4,1,1
+217,899000.0,43.690678,-79.313802,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,2,1,0
+218,898800.0,43.76807,-79.23913,Toronto,Detached,House,Central air conditioning,Forced air,3,2,0,0
+219,874900.0,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,3,2,1,1
+221,858888.0,42.9345071,-80.290768,Waterford,Detached,House,"Air exchanger, Central air conditioning",Forced air,2,2,0,0
+222,850000.0,45.1403366,-76.1465672,Carleton Place,Detached,House,Central air conditioning,Forced air,3,2,0,1
+223,849000.0,44.0707335,-77.87121733431846,Cramahe,Detached,House,Central air conditioning,Forced air,3,2,1,1
+224,849000.0,44.0923099,-77.9388294,Castleton,Detached,House,Central air conditioning,"Forced air, Stove",3,2,1,0
+225,842500.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,4,1,1
+226,839999.0,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,4,3,0,0
+227,839900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,0,1
+228,839900.0,44.241045,-77.358813,Belleville,Detached,House,Central air conditioning,Forced air,3,3,1,0
+229,819000.0,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,3,2,0,1
+230,799999.0,43.1931661,-79.560677,Grimsby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,0
+231,799999.0,43.1931661,-79.560677,Grimsby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,0
+232,799950.0,44.2921994,-77.82218148636545,Trent Hills,Detached,House,Central air conditioning,Radiant heat,3,2,0,1
+233,799900.0,48.888754,-88.444497,Valley East,Detached,House,Central air conditioning,"Other, Baseboard heaters",5,2,0,0
+234,799900.0,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,3,3,1,1
+235,799900.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,1
+236,799900.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,3,2,1,1
+237,799900.0,43.9515755,-78.2939704,Port Hope,Detached,House,Central air conditioning,Forced air,4,3,0,1
+238,799900.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,1,1
+239,799000.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+240,789900.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,2,3,1,0
+241,779900.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Wall unit,Baseboard heaters,3,2,1,1
+242,774900.0,45.274101,-75.27935,Embrun,Detached,House,Central air conditioning,Forced air,4,3,0,1
+243,769900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,1,0,0
+244,750000.0,43.9193171,-80.0973754,Orangeville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+245,749900.0,45.4810323,-75.5100002,Orleans,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+246,749900.0,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,3,1,0,1
+247,749900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,2,0,1
+249,749000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+250,749000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,2,2,0,0
+251,749000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,1,0,0
+252,745000.0,44.0422275,-77.7370071,Brighton,Detached,House,None,Forced air,2,2,0,0
+253,739900.0,43.835765,-79.090576,Pickering,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+254,729900.0,42.8387232,-80.63686805,Norfolk,Detached,House,Central air conditioning,Forced air,2,3,1,1
+255,699999.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,3,0,1
+256,699900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,3,0,1
+257,699900.0,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,3,2,1,0
+258,699900.0,43.1654577,-79.4751839,Beamsville,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+259,699900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,3,0,0
+260,699900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,3,0,0
+261,699000.0,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,3,3,1,0
+262,699000.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+263,699000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,3,1,0
+265,657500.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+266,650000.0,43.195461,-80.404066,Brant,Detached,House,Central air conditioning,Forced air,3,2,0,1
+267,649900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,0,0
+268,649900.0,43.2661904,-79.9546341,Dundas,Semi-Detached,House,Central air conditioning,Forced air,2,1,0,0
+269,649900.0,43.1301111,-80.7562977,Woodstock,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+270,649000.0,43.4774985,-80.7645006,Wellesley,Semi-Detached,House,Central air conditioning,Forced air,2,2,0,1
+271,633900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+272,629900.0,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,Forced air,3,2,1,1
+273,629000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,1
+274,629000.0,43.1301111,-80.7562977,Woodstock,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+275,624999.0,42.2593155,-82.4322682,Tilbury,Detached,House,Central air conditioning,Forced air,3,2,1,0
+276,599999.0,44.7164408,-79.77099198066065,Tay,Detached,House,Window air conditioner,Baseboard heaters,3,2,0,1
+277,599900.0,45.433515,-76.3543692,Arnprior,Detached,House,Central air conditioning,Forced air,4,3,1,0
+278,599900.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Baseboard heaters,3,1,0,0
+279,599900.0,46.55588,-80.86413,Garson,Detached,House,"Air exchanger, Central air conditioning","Forced air, High-Efficiency Furnace",4,2,0,0
+280,599900.0,43.20917,-80.01194,Ancaster,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+281,599900.0,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+282,599000.0,44.3048009,-78.3199496,Peterborough,Detached,House,None,Forced air,3,3,0,0
+283,599000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,2,0,0
+284,599000.0,43.8975558,-78.8635324,Oshawa,Semi-Detached,House,Central air conditioning,Forced air,3,2,1,0
+285,589999.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,2,2,0,0
+286,589900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+287,589900.0,43.1931661,-79.560677,Grimsby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,1,0,0
+291,559900.0,42.331405,-82.942044,Windsor,Detached,House,Central air conditioning,Forced air,3,2,0,0
+292,554900.0,45.3341367,-75.2519986,Limoges,Semi-Detached,House,None,Forced air,3,3,0,0
+293,549900.0,44.210386,-77.306575,Belleville,Detached,House,None,Forced air,4,2,0,0
+294,539900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,2,1,1,0
+295,534888.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Boiler,3,3,1,0
+296,529900.0,45.3341367,-75.2519986,Limoges,Detached,House,Wall unit,"Baseboard heaters, Heat Pump",3,2,0,1
+297,525000.0,44.68872225,-81.00872535041186,Georgian Bluffs,Detached,House,None,Forced air,3,2,1,0
+298,500000.0,43.3600536,-80.3123023,Cambridge,Townhouse,Row / Townhouse,None,Baseboard heaters,3,2,0,1
+299,499900.0,43.2661904,-79.9546341,Dundas,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+300,499900.0,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,3,2,0,0
+301,499900.0,44.241045,-77.358813,Belleville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,0,0
+302,499900.0,45.433515,-76.3543692,Arnprior,Detached,House,Central air conditioning,Forced air,3,1,0,1
+303,499900.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+304,499900.0,43.1408157,-80.2631733,Brantford,Detached,House,Central air conditioning,Forced air,3,3,0,1
+305,499444.0,42.2263255,-82.9580049,Oldcastle,Detached,House,Central air conditioning,Forced air,1,1,1,0
+306,479900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,0,1
+307,469900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2,2,0,0
+308,459000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Window air conditioner,Forced air,4,2,0,1
+309,449000.0,43.8975558,-78.8635324,Oshawa,Semi-Detached,House,Central air conditioning,Forced air,2,2,0,1
+310,428500.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+311,399900.0,42.0531166,-82.5996998,Leamington,Detached,House,Central air conditioning,Forced air,3,1,1,0
+312,399900.0,42.303779,-82.948815,Windsor,Detached,House,Central air conditioning,Forced air,2,1,0,0
+313,399900.0,42.2593155,-82.4322682,Tilbury,Detached,House,Central air conditioning,Forced air,1,1,1,0
+315,369900.0,46.65008,-80.99974,Val Therese,Detached,House,Central air conditioning,Forced air,4,3,0,0
+317,349900.0,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,3,2,0,0
+319,299000.0,42.4394208,-81.8821334,Ridgetown,Detached,House,Partially air conditioned,Forced air,3,2,0,0
+320,289000.0,45.024864,-74.751732,Cornwall,Detached,House,None,Forced air,2,1,0,0
+321,2998877.0,43.757762,-79.37677,Toronto,Detached,House,Central air conditioning,Forced air,4,5,0,1
+322,2225000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,4,0,1
+323,2189900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,5,1,1
+324,1880000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,4,4,1,1
+325,1799000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,3,1,1
+326,1750000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,4,4,1,1
+327,1739900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,3,0,0
+328,1739900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,3,0,1
+329,1699900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+330,1668000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,4,6,1,1
+331,1649999.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,5,1,1
+332,1599999.0,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,4,2,0,1
+333,1599000.0,43.660438,-79.465004,Toronto,Semi-Detached,House,Central air conditioning,Forced air,4,3,1,0
+334,1499888.0,43.5896231,-79.6443879,Mississauga,Detached,House,Wall unit,Forced air,1,2,1,0
+335,1499000.0,43.690678,-79.313802,Toronto,Detached,House,Central air conditioning,Forced air,3,4,0,0
+336,1450000.0,44.49409275,-79.83172283448036,Springwater,Detached,House,Central air conditioning,Forced air,2,3,1,1
+337,1399000.0,43.729413,-79.39237,Toronto,Detached,House,Central air conditioning,Forced air,2,2,1,0
+338,1389000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,4,1,1
+339,1389000.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,3,2,0,1
+340,1350000.0,43.5964593,-80.2567182345291,Guelph/Eramosa,Detached,House,Central air conditioning,Forced air,4,3,0,1
+341,1349999.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,4,1,0
+342,1349999.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,5,4,0,1
+343,1329000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,3,4,1,1
+344,1299900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,0
+345,1299000.0,43.650005,-79.482809,Toronto,Detached,House,Wall unit,Radiant heat,3,3,0,0
+346,1299000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,4,1,1
+347,1279000.0,43.690678,-79.313802,Toronto,Detached,House,Central air conditioning,Forced air,2,2,1,0
+348,1249000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,0
+349,1199000.0,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,3,3,0,0
+350,1199000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,5,1,0
+351,1199000.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,4,4,0,1
+352,1199000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,3,0,1
+353,1199000.0,43.513671,-79.882817,Milton,Semi-Detached,House,Central air conditioning,Forced air,4,4,0,0
+354,1175000.0,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,4,5,1,0
+355,1170000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,2,1,0
+356,1149000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,1,1,0
+357,1125000.0,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,3,3,0,0
+358,1100000.0,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,4,4,1,1
+359,1090000.0,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,4,4,0,1
+362,999999.0,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+363,999999.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,2,0,1
+364,999998.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+365,999900.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,2,0,1
+366,999900.0,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,Forced air,3,3,0,0
+367,999900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,5,1,1
+368,999000.0,43.709229,-79.513598,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,1
+369,999000.0,43.1065603,-79.0639039,Niagara Falls,Detached,House,Central air conditioning,Forced air,2,3,1,0
+370,998800.0,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,0
+371,989900.0,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,3,3,1,1
+372,988000.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+373,965000.0,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+374,959000.0,43.16681,-79.48291,Beamsville,Detached,House,Central air conditioning,Forced air,3,3,0,0
+375,949900.0,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,2,2,0,1
+376,949900.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,4,3,0,1
+377,949900.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+378,949900.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,0
+379,949000.0,43.621861,-79.943877,Halton Hills,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+381,899900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,2,0,0
+382,899900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,2,2,1,0
+383,899900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+384,899900.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,3,1,1
+385,899000.0,44.34159575,-79.34615813017496,Georgina,Detached,House,Central air conditioning,Forced air,4,3,0,1
+386,899000.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,4,1,1
+387,898888.0,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,Forced air,2,3,1,0
+388,889900.0,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,3,3,1,1
+389,889500.0,43.6912632,-80.98352920005001,North Perth,Detached,House,Central air conditioning,Forced air,4,4,0,1
+390,879900.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,1
+391,875000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,3,1,0
+392,868000.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Baseboard heaters,3,2,0,0
+393,849999.0,43.3248924,-79.7966835,Burlington,Semi-Detached,House,Central air conditioning,Forced air,3,4,0,0
+394,849999.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,3,0,1
+395,849900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,4,1,1
+396,849900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,3,1,0
+397,849900.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,1
+398,824900.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,3,0,1
+399,824500.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,2,3,1,1
+400,824500.0,44.376605,-78.713158,Lindsay,Detached,House,Central air conditioning,Forced air,2,3,1,1
+401,799999.0,43.64877,-79.38171,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+402,799999.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,3,3,0,1
+403,799900.0,45.236218,-75.472641,Metcalfe,Detached,House,Central air conditioning,Forced air,3,3,0,0
+404,799900.0,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+405,799900.0,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+406,799900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,2,0,1
+407,799900.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+408,799000.0,43.731742,-79.262514,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+409,799000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,2,0,1
+410,798800.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,3,3,0,1
+411,790000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,2,0,1
+415,750000.0,43.10506117272728,-79.56924241818182,West Lincoln,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,0
+416,750000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,3,0,0
+417,749999.0,42.859494,-80.7265015,Tillsonburg,Detached,House,Central air conditioning,Forced air,5,4,0,0
+418,749900.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,3,3,0,0
+420,749100.0,42.363585,-82.177131,Chatham,Detached,House,Central air conditioning,Forced air,4,3,0,1
+421,749000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,4,1,1
+423,699900.0,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,4,4,1,0
+424,698000.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,1
+425,674900.0,43.2560802,-79.8728583,Hamilton,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+426,669900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,4,1,1
+427,669500.0,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,3,1,0,0
+429,669000.0,44.1571502,-77.7006641,Wooler,Detached,House,Central air conditioning,"Forced air, Stove",3,1,0,0
+430,649900.0,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,4,4,1,0
+432,649900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,3,1,0
+433,649900.0,43.2661904,-79.9546341,Dundas,Detached,House,Central air conditioning,Forced air,3,1,0,0
+434,649900.0,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,3,4,0,0
+435,649900.0,42.7834,-80.19966,Port Dover,Detached,House,Central air conditioning,"Baseboard heaters, Other",2,1,0,0
+436,649900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,3,0,0
+437,599900.0,42.327396,-82.909689,Windsor,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+439,597000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1,3,1,0
+440,579900.0,46.49272,-80.991211,Greater Sudbury,Detached,House,Central air conditioning,"Boiler, Baseboard heaters",3,2,0,0
+442,574900.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+445,549580.0,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,3,2,0,1
+446,526650.0,45.5501,-75.29101,Rockland,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+447,524650.0,45.5501,-75.29101,Rockland,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+448,523900.0,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,2,2,1,0
+449,514900.0,45.5501,-75.29101,Rockland,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+450,499900.0,43.8975558,-78.8635324,Oshawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+451,499900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+452,499000.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Window air conditioner,Baseboard heaters,3,1,0,0
+454,448000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,"Forced air, Other",2,3,0,0
+455,424900.0,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,Forced air,3,2,0,0
+457,399900.0,42.327396,-82.909689,Windsor,Detached,House,Central air conditioning,Forced air,2,3,1,0
+458,399000.0,43.1408157,-80.2631733,Brantford,Detached,House,Central air conditioning,Forced air,4,2,1,1
+459,389900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+460,389000.0,42.289393,-82.971349,Windsor,Detached,House,Central air conditioning,Forced air,3,2,0,0
+462,349000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,"Baseboard heaters, Heat Pump",2,2,1,1
+463,339900.0,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,"Baseboard heaters, Heat Pump",3,1,0,0
+466,229900.0,42.29533,-83.024461,Windsor,Detached,House,Central air conditioning,Forced air,2,1,0,0
+467,199000.0,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,3,1,0,0
+468,2990000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,4,5,1,1
+469,2599999.0,43.648806,-79.413855,Toronto,Semi-Detached,House,Wall unit,Radiant heat,4,4,1,0
+470,2449900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,4,0,0
+471,2449000.0,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,5,4,0,1
+472,2349000.0,43.925186,-79.786421,Caledon,Detached,House,Central air conditioning,Forced air,4,5,1,1
+473,2249000.0,43.646882,-79.453241,Toronto,Detached,House,Central air conditioning,Forced air,4,3,0,1
+474,2195000.0,43.7078211,-79.3881163,Toronto,Detached,House,Central air conditioning,Forced air,3,4,1,1
+475,1999000.0,43.703263,-79.386652,Toronto,Detached,House,Central air conditioning,Forced air,3,4,0,1
+476,1950000.0,43.751661,-79.447657,Toronto,Detached,House,Central air conditioning,Forced air,4,4,1,1
+477,1899000.0,43.632597,-79.494149,Toronto,Detached,House,Central air conditioning,Forced air,4,4,1,1
+478,1799000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,4,0,1
+479,1788000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Heat Pump,5,4,0,1
+480,1749000.0,43.636597,-79.432422,Toronto,Semi-Detached,House,Central air conditioning,Forced air,4,2,0,0
+481,1699000.0,45.223256,-75.684461,Manotick,Detached,House,Central air conditioning,Forced air,4,6,1,1
+482,1699000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,4,3,1,1
+483,1679000.0,43.6975925,-79.4981956,Toronto,Detached,House,Central air conditioning,Forced air,4,6,1,1
+484,1599000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,3,2,0,1
+485,1590000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,1,1
+486,1550000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,3,0,1
+487,1499000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,4,0,1
+488,1499000.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,3,4,0,1
+489,1488000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,4,5,1,1
+490,1450000.0,44.34159575,-79.34615813017496,Georgina,Detached,House,Central air conditioning,Forced air,4,3,1,1
+491,1449000.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,3,3,1,1
+492,1399999.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,0,0
+493,1399999.0,43.2560802,-79.8728583,Hamilton,Detached,House,"Air exchanger, Central air conditioning",Forced air,4,3,0,0
+494,1389900.0,44.308247,-79.381227,Georgina,Detached,House,Central air conditioning,Forced air,5,5,0,1
+495,1388000.0,45.3128048,-75.8940505,Kanata,Detached,House,Central air conditioning,Forced air,4,4,0,1
+496,1380000.0,43.817087,-79.281909,Toronto,Detached,House,Central air conditioning,Forced air,4,5,1,1
+497,1369000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,4,1,0
+498,1300000.0,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,4,0,1
+499,1279999.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,4,4,1,0
+500,1259900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,5,1,1
+501,1250000.0,44.11697,-79.497616,East Gwillimbury,Detached,House,Central air conditioning,Forced air,4,4,1,1
+503,1249900.0,43.5964593,-80.2567182345291,Guelph/Eramosa,Detached,House,Central air conditioning,Forced air,4,2,0,1
+505,1199900.0,43.676479,-79.481669,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,0
+506,1199000.0,45.236218,-75.472641,Metcalfe,Detached,House,Central air conditioning,Forced air,3,4,1,1
+507,1199000.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,4,0,0
+508,1189900.0,43.690678,-79.313802,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,4,1,0
+509,1189888.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,4,1,0
+510,1149000.0,43.650005,-79.482809,Toronto,Detached,House,Central air conditioning,Forced air,3,2,0,0
+511,1099995.0,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,1
+512,1099900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,3,0,0
+513,1099900.0,43.687783,-79.450978,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,3,1,0
+514,1099000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,2,1,0
+515,1089000.0,43.780943,-79.300491,Toronto,Detached,House,Central air conditioning,Forced air,4,4,1,1
+516,1019000.0,44.014469,-79.323704,Whitchurch-Stouffville,Semi-Detached,House,Central air conditioning,Forced air,3,4,0,0
+517,999900.0,43.04468,-79.28507,Fonthill,Detached,House,Central air conditioning,Forced air,4,4,1,0
+518,999900.0,43.780943,-79.300491,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,0
+519,999900.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,4,0,0
+520,999900.0,43.707087,-79.30772,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,0
+521,999000.0,43.2556116,-79.0723264,Niagara-on-the-Lake,Detached,House,Central air conditioning,Forced air,3,2,0,0
+522,999000.0,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,3,2,1,1
+523,999000.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+524,999000.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,3,3,0,0
+525,998000.0,43.8563707,-79.3376825,Markham,Semi-Detached,House,Central air conditioning,Forced air,3,3,1,0
+526,988000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,4,0,0
+527,979000.0,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,1
+528,968000.0,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,4,0,0
+529,929000.0,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,3,3,1,0
+530,899999.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,3,0,1
+531,899900.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,3,0,0
+532,899900.0,43.12981165,-79.84043883934544,Glanbrook,Detached,House,Central air conditioning,Forced air,2,2,1,0
+534,899000.0,44.376812,-79.470068,Georgina,Detached,House,Central air conditioning,Forced air,2,3,1,0
+535,899000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,3,0,1
+536,899000.0,43.60118554,-79.5253275,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,0,0
+537,889000.0,43.33341,-79.88293,Waterdown,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+538,889000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+539,849999.0,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,4,3,0,0
+540,849900.0,45.1403366,-76.1465672,Carleton Place,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,4,1,1
+542,849898.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,4,3,0,1
+543,839999.0,43.801989,-79.357687,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+544,824900.0,44.750147,-79.885712,Midland,Detached,House,Central air conditioning,Forced air,3,3,1,1
+545,799999.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,2,0,0
+546,799900.0,43.835765,-79.090576,Pickering,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+547,799900.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,0
+548,799900.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,2,2,1,1
+549,799000.0,43.7342503,-79.5595228,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+550,799000.0,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+551,779900.0,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,3,3,1,0
+552,759900.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+553,759000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,1,1
+555,749900.0,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,Forced air,3,2,1,1
+556,749000.0,43.1065603,-79.0639039,Niagara Falls,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,0
+557,739900.0,43.121034,-79.804001,Binbrook,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+558,739900.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+559,699999.0,43.67089,-79.316931,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Baseboard heaters,1,2,1,1
+560,699900.0,43.8975558,-78.8635324,Oshawa,Semi-Detached,House,Central air conditioning,Forced air,3,3,1,0
+561,699000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,1,0,0
+562,689900.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+563,684900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,1
+565,675000.0,45.433515,-76.3543692,Arnprior,Detached,House,Window air conditioner,"Baseboard heaters, Radiant heat",3,3,1,1
+567,649000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,3,2,0,1
+568,615000.0,42.035586,-82.9183594,Harrow,Semi-Detached,House,Central air conditioning,Forced air,2,2,0,0
+569,599900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,3,2,1,0
+570,599900.0,42.035586,-82.9183594,Harrow,Detached,House,Central air conditioning,Forced air,3,2,1,0
+572,599900.0,44.60149,-79.431535,Orillia,Detached,House,Central air conditioning,Forced air,3,2,1,0
+573,599000.0,43.665276,-79.438009,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+574,579900.0,45.274101,-75.27935,Embrun,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+575,569900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+577,559900.0,45.3341367,-75.2519986,Limoges,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+578,549900.0,45.54643805,-75.28657715,Rockland,Detached,House,Central air conditioning,Forced air,3,1,1,1
+579,549900.0,44.2477996,-77.3160615,Corbyville,Detached,House,Central air conditioning,"Forced air, Heat Pump",3,1,1,0
+580,538888.0,42.265799,-83.024291,Windsor,Detached,House,Central air conditioning,Forced air,3,2,1,0
+581,536650.0,45.5501,-75.29101,Rockland,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+582,519900.0,45.1403366,-76.1465672,Carleton Place,Semi-Detached,House,Central air conditioning,Forced air,4,2,0,0
+583,514650.0,45.5501,-75.29101,Rockland,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+584,504900.0,45.5501,-75.29101,Rockland,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+585,499900.0,42.33339,-81.99978,Blenheim,Detached,House,Central air conditioning,Forced air,2,2,1,0
+586,449900.0,43.1301111,-80.7562977,Woodstock,Detached,House,Central air conditioning,Forced air,3,2,0,0
+587,349900.0,42.289393,-82.971349,Windsor,Detached,House,Central air conditioning,Forced air,3,2,1,0
+588,349900.0,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,"Forced air, High-Efficiency Furnace",2,1,0,0
+589,299900.0,42.331405,-82.942044,Windsor,Detached,House,Heat Pump,"Baseboard heaters, Heat Pump",3,1,0,0
+590,299900.0,42.331405,-82.942044,Windsor,Detached,House,Central air conditioning,Forced air,2,1,0,0
+592,2749000.0,43.723138,-79.235498,Toronto,Detached,House,Central air conditioning,Forced air,4,6,1,1
+593,2395000.0,43.680156,-79.374616,Toronto,Detached,House,Central air conditioning,Forced air,3,4,1,1
+594,2199900.0,44.010679,-79.274082,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,3,5,1,1
+595,2148888.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,5,1,1
+596,1999999.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,6,1,1
+598,1789000.0,43.690678,-79.313802,Toronto,Detached,House,Central air conditioning,Forced air,3,5,1,1
+599,1788000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,5,1,1
+600,1649900.0,43.780366,-79.34786,Toronto,Detached,House,Central air conditioning,Forced air,4,3,1,1
+601,1599999.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,5,5,1,1
+602,1549000.0,43.690678,-79.313802,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,1
+603,1399000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,0
+604,1398000.0,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,4,4,0,1
+605,1379000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,4,4,0,1
+606,1329000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,4,0,1
+607,1325000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,2,0,0
+608,1324900.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,4,3,0,1
+609,1288800.0,43.754227,-79.328265,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,1
+610,1250000.0,43.1054531,-81.1401989,Thorndale,Detached,House,Central air conditioning,Forced air,3,3,0,0
+611,1249000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,4,1,1
+612,1249000.0,43.621861,-79.943877,Halton Hills,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,1,1
+613,1199990.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+615,1199000.0,44.1088502,-79.1226768,Uxbridge,Detached,House,Central air conditioning,Forced air,3,3,0,1
+616,1199000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,6,3,0,0
+617,1199000.0,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,1
+618,1188000.0,43.801685,-79.32186,Toronto,Detached,House,Central air conditioning,Forced air,4,7,1,0
+619,1178000.0,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,3,3,1,1
+621,1149000.0,43.707087,-79.30772,Toronto,Detached,House,Central air conditioning,Hot water radiator heat,3,2,0,1
+624,1098000.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,3,3,1,1
+625,1079000.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,3,3,0,1
+626,1069900.0,44.34768505,-79.10016490761303,Brock,Detached,House,Central air conditioning,Forced air,3,2,0,1
+627,1069000.0,43.76807,-79.23913,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,1
+628,1039000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,1,1
+629,999999.0,42.265799,-83.024291,Windsor,Detached,House,Central air conditioning,Forced air,4,4,0,0
+630,999900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,2,1,1
+631,999900.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,3,0,1
+632,999000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,6,1,0
+633,999000.0,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,1
+634,999000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,2,1,0
+635,988888.0,43.731742,-79.262514,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,1
+636,979900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,4,1,1
+637,979000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,2,0,0
+638,975000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,3,0,1
+639,974900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,0,0
+640,949900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,4,0,1
+641,949900.0,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,3,4,0,1
+642,947777.0,43.195461,-80.404066,Paris,Detached,House,Central air conditioning,Forced air,3,3,0,0
+643,899900.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,3,2,0,1
+644,899000.0,43.76807,-79.23913,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,1
+645,899000.0,43.657016,-79.338932,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+646,849900.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,3,0,1
+648,849000.0,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,4,4,0,0
+649,829900.0,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,"Forced air, High-Efficiency Furnace",4,3,0,0
+650,825000.0,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,3,3,0,0
+651,820000.0,43.99973,-79.467545,Aurora,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+652,819000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+653,819000.0,43.1561412,-79.9161804,Mount Hope,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+654,818000.0,43.225693,-79.976692,Ancaster,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,0
+655,818000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,0,1
+656,799900.0,43.5460516,-80.2493276,Guelph,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+657,799000.0,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,3,3,1,0
+658,799000.0,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,3,3,1,0
+659,799000.0,43.8975558,-78.8635324,Oshawa,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,1
+662,749000.0,43.7596,-79.272628,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+663,724900.0,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,Forced air,4,2,0,0
+664,699999.0,43.687783,-79.450978,Toronto,Detached,House,Central air conditioning,Forced air,2,2,0,0
+665,699900.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+666,699800.0,44.0707335,-77.87121733431846,Cramahe,Detached,House,Central air conditioning,Forced air,4,2,0,0
+667,684900.0,42.3048504,-82.5479704,Stoney Point,Detached,House,Central air conditioning,Forced air,2,2,1,0
+668,679900.0,43.835765,-79.090576,Pickering,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,0,0
+669,674900.0,42.3117951,-82.8861974,Tecumseh,Detached,House,Central air conditioning,Forced air,3,4,1,0
+671,649900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,3,2,0,0
+672,649000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,2,0,1
+673,635000.0,44.163837,-77.39984,Belleville,Detached,House,Central air conditioning,Forced air,3,3,0,1
+674,625000.0,42.403594,-82.188613,Chatham,Semi-Detached,House,Central air conditioning,Forced air,2,3,1,0
+675,624900.0,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Baseboard heaters,2,2,1,0
+676,599900.0,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,3,2,1,0
+677,599900.0,45.4810323,-75.5100002,Orleans,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+678,589000.0,43.64877,-79.38171,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+680,549900.0,42.327396,-82.909689,Windsor,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,1,0
+682,539999.0,45.1943303,-75.8386342,Richmond,Detached,House,Central air conditioning,Forced air,3,2,0,0
+683,499900.0,46.5521017,-81.1148103,Azilda,Detached,House,Central air conditioning,Forced air,3,2,0,0
+684,499900.0,46.265341,-81.769867,Espanola,Detached,House,"Central air conditioning, Ventilation system","Forced air, High-Efficiency Furnace",4,2,0,0
+685,499900.0,44.09917,-77.57755,Trenton,Detached,House,Central air conditioning,Forced air,3,2,0,1
+686,499900.0,44.94724925,-78.72992711219575,Minden Hills,Detached,House,None,Forced air,2,2,0,0
+687,484900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+688,429900.0,42.305669,-82.914658,Windsor,Semi-Detached,House,Central air conditioning,Forced air,3,1,0,0
+693,345999.0,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,3,2,0,0
+694,259880.0,45.2885939,-74.8554938,Maxville,Detached,House,None,"Baseboard heaters, Space Heater",3,1,0,0
+695,1595000.0,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,4,4,0,1
+697,1275000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,5,1,1
+698,1249900.0,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+699,1199900.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,3,2,1,1
+700,999999.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+701,999000.0,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,1
+705,509000.0,45.3341367,-75.2519986,Limoges,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+707,2998000.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,5,8,1,1
+708,2199000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,5,4,0,1
+709,1650000.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,5,0,1
+710,1499000.0,43.650005,-79.482809,Toronto,Detached,House,Wall unit,Hot water radiator heat,3,2,0,0
+711,1425000.0,43.1561412,-79.9161804,Mount Hope,Detached,House,Central air conditioning,"Baseboard heaters, Forced air",3,3,0,0
+712,1379900.0,44.1375186,-79.9421083123357,Adjala-Tosorontio,Detached,House,Central air conditioning,Forced air,3,3,1,1
+713,1299999.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+714,1199000.0,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+715,1099000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,2,0,1
+716,1098000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,3,2,0,0
+717,999999.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,3,1,0
+718,999900.0,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,4,1,0
+719,999888.0,43.8563707,-79.3376825,Markham,Semi-Detached,House,Central air conditioning,Forced air,4,4,0,0
+720,924900.0,44.3150892,-79.5461073,Innisfil,Detached,House,Central air conditioning,Forced air,4,3,1,1
+721,869000.0,43.626816,-79.516419,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+722,799900.0,43.1931661,-79.560677,Grimsby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+723,768000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,4,0,1
+724,698000.0,43.8505287,-79.0208814,Ajax,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+725,649900.0,44.7207522,-76.924124,Arden,Detached,House,Central air conditioning,Other,3,1,0,0
+726,649900.0,43.121034,-79.804001,Binbrook,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+727,619900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,0,1
+729,579000.0,45.041406,-74.733993,Cornwall,Detached,House,Central air conditioning,Forced air,2,2,1,0
+730,549900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,"Central air conditioning, Fully air conditioned",Forced air,3,2,0,0
+731,400000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,"Central air conditioning, Fully air conditioned",Forced air,2,3,1,0
+732,400000.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,"Central air conditioning, Fully air conditioned",Forced air,2,3,1,0
+733,2999888.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,5,0,1
+734,2999000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,4,0,1
+735,2900000.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,6,6,0,1
+736,2235000.0,43.6647175,-79.495341,Toronto,Detached,House,Wall unit,Radiant heat,3,2,1,1
+737,1988800.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,4,1,1
+738,1849000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,5,1,0
+739,1749900.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Radiant heat,4,2,0,1
+740,1688000.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,5,4,0,1
+741,1624900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,2,3,1,1
+742,1599000.0,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,3,2,0,1
+743,1499900.0,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,4,4,0,0
+744,1499900.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,5,1,1
+745,1475000.0,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,4,3,0,0
+746,1400000.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,4,4,1,1
+747,1399900.0,43.225693,-79.976692,Ancaster,Detached,House,Central air conditioning,Forced air,3,3,1,0
+748,1399900.0,43.713895,-79.486737,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,1
+749,1399000.0,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,4,4,0,1
+750,1399000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,5,1,1
+751,1350000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,5,3,0,0
+752,1349000.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,4,4,0,1
+753,1344900.0,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Radiant heat,5,4,0,1
+754,1299999.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,1,1
+755,1299999.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,1,0
+756,1299000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,4,0,1
+757,1250000.0,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,"Forced air, Radiant heat",4,3,0,0
+758,1249240.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,4,4,0,1
+759,1199900.0,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,4,3,0,0
+760,1199900.0,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,4,2,0,0
+761,1199000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,4,1,1
+762,1190000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,5,4,0,1
+763,1178888.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,3,0,1
+764,1150000.0,44.14125,-79.395028,East Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+765,1120000.0,44.014469,-79.323704,Whitchurch-Stouffville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+767,999999.0,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+768,988888.0,44.11697,-79.497616,East Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,4,1,0
+770,949900.0,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,4,3,0,0
+771,949000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,3,0,1
+772,899000.0,43.1408157,-80.2631733,Brantford,Detached,House,Central air conditioning,Forced air,4,3,0,0
+773,875000.0,42.3791473,-82.2102956,Chatham,Detached,House,Central air conditioning,Forced air,2,3,0,0
+774,869900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,4,2,0,0
+775,849900.0,45.3112037,-74.6367573,Alexandria,Detached,House,Central air conditioning,Forced air,3,2,0,0
+776,849900.0,44.376812,-79.470068,Georgina,Detached,House,Central air conditioning,Forced air,3,1,0,1
+777,849000.0,45.274101,-75.27935,Embrun,Detached,House,Central air conditioning,Forced air,3,4,0,1
+778,799991.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+779,799900.0,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,4,2,0,0
+780,799888.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,3,2,1,0
+782,775000.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,3,2,0,1
+783,749900.0,43.1408157,-80.2631733,Brantford,Detached,House,Central air conditioning,Forced air,3,3,1,0
+784,749900.0,42.3048504,-82.5479704,Stoney Point,Detached,House,Central air conditioning,Forced air,3,1,0,0
+785,699900.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,1
+786,689900.0,43.1931661,-79.560677,Grimsby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+787,655000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+788,629000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+789,599000.0,43.6189078,-80.1442087,Rockwood,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+790,574999.0,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,2,1,0,0
+791,564900.0,45.3341367,-75.2519986,Limoges,Detached,House,None,Forced air,3,1,0,0
+792,554900.0,45.3341367,-75.2519986,Limoges,Semi-Detached,House,None,Forced air,3,3,0,0
+793,518000.0,44.0818996,-79.77443058053504,New Tecumseth,Detached,House,Central air conditioning,Forced air,2,2,0,0
+794,499900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,3,2,0,0
+795,399900.0,45.4810323,-75.5100002,Orleans,Townhouse,Row / Townhouse,Heat Pump,Baseboard heaters,2,2,0,1
+796,299900.0,44.7164408,-79.77099198066065,Tay,Detached,Mobile Home,Window air conditioner,Baseboard heaters,2,1,0,1
+797,3000000.0,43.73952294,-79.4150904,Toronto,Detached,House,Central air conditioning,Forced air,4,4,0,1
+798,2649900.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,4,1,1
+799,2299900.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,5,5,1,1
+800,2198000.0,43.729413,-79.39237,Toronto,Detached,House,Central air conditioning,Radiant heat,3,4,1,1
+801,2188000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,3,0,1
+802,2188000.0,43.710815,-79.418648,Toronto,Detached,House,Central air conditioning,Forced air,3,4,0,1
+803,2099888.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,5,4,1,1
+804,1949900.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+805,1799999.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,4,0,0
+806,1799999.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,4,0,1
+807,1790000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2,2,1,1
+808,1680000.0,44.34159575,-79.34615813017496,Georgina,Detached,House,Central air conditioning,Forced air,3,4,1,0
+809,1649000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,3,4,1,1
+810,1399000.0,43.687992,-79.556339,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,0
+811,1370000.0,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+812,1299999.0,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,4,4,0,1
+813,1268800.0,44.34159575,-79.34615813017496,Georgina,Detached,House,Central air conditioning,Forced air,3,3,1,1
+814,1199000.0,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,3,4,0,1
+815,1098000.0,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,3,3,1,1
+816,1049000.0,44.0707335,-77.87121733431846,Cramahe,Detached,House,Central air conditioning,Forced air,2,2,1,1
+817,1049000.0,44.00012,-77.8828,Colborne,Detached,House,Central air conditioning,Forced air,2,2,1,0
+818,999900.0,43.842903,-79.89885,Caledon,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+819,999900.0,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,4,3,0,1
+820,999000.0,43.656078,-79.36364,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,1,1
+821,979000.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,3,0,0
+822,969000.0,43.1931661,-79.560677,Grimsby,Detached,House,Central air conditioning,Forced air,3,3,0,0
+823,899900.0,43.693021,-79.532953,Toronto,Detached,House,Central air conditioning,Forced air,3,2,1,0
+825,899000.0,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+826,874900.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,2,0,0
+827,865000.0,44.4233365,-78.2721953,Lakefield,Detached,House,Central air conditioning,Forced air,1,3,1,1
+828,864900.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,2,1,0
+829,799900.0,45.0617824,-75.5175929,Hallville,Detached,House,Central air conditioning,Forced air,3,2,0,1
+830,799000.0,43.99973,-79.467545,Aurora,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+831,799000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,1,1
+832,788800.0,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,3,2,0,0
+833,779900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,3,2,1,0
+834,758500.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,0,1
+835,749900.0,45.2573172,-75.3583264,Russell,Detached,House,Central air conditioning,Forced air,3,2,0,1
+836,749900.0,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,3,3,1,0
+837,749000.0,44.5224813,-80.0203156,Wasaga Beach,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,0
+838,749000.0,45.4415788,-75.2399439,Hammond,Detached,House,Central air conditioning,Forced air,3,3,1,1
+839,714900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,2,1,1
+840,674900.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,None,Forced air,2,1,0,0
+841,640000.0,42.902101,-80.231432,Norfolk,Detached,House,Central air conditioning,Forced air,2,2,0,1
+842,629000.0,43.811594,-79.188405,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,1,0
+843,625000.0,42.9922181,-79.2484192,Welland,Townhouse,Row / Townhouse,Central air conditioning,Hot water radiator heat,3,4,0,0
+845,584900.0,45.1403366,-76.1465672,Carleton Place,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+846,575000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,1,0,0
+847,575000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,1,0,0
+848,539900.0,45.274101,-75.27935,Embrun,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,1,0
+849,529700.0,42.035586,-82.9183594,Harrow,Detached,House,Central air conditioning,Forced air,3,3,0,0
+850,499900.0,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+851,425000.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+852,419900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2,2,0,1
+853,399000.0,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1,1,0,0
+854,2999990.0,43.676218,-79.291151,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,0
+855,2795000.0,43.686359,-79.40231,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,0,1
+856,2575000.0,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,3,4,1,1
+857,2348000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,4,5,1,1
+858,2277000.0,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,5,5,1,1
+859,1699900.0,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,5,4,0,1
+860,1675000.0,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,3,3,1,1
+861,1599000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+862,1575000.0,44.1899502,-80.10235592975826,Mulmur,Detached,House,Central air conditioning,Forced air,3,2,0,1
+863,1549000.0,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,4,3,0,0
+864,1499900.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,4,4,0,1
+865,1499900.0,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,4,4,1,1
+866,1499000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,6,6,1,1
+867,1398000.0,43.801685,-79.32186,Toronto,Detached,House,Central air conditioning,Forced air,4,4,0,1
+868,1250000.0,43.92856,-79.52694,King City,Detached,House,Central air conditioning,Forced air,3,2,1,0
+869,1249900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,3,0,1
+871,1188888.0,43.8563707,-79.3376825,Markham,Semi-Detached,House,Central air conditioning,Forced air,3,4,1,0
+872,1100000.0,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,2,3,1,1
+873,1099990.0,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,3,4,0,0
+874,999999.0,45.3917725,-76.1883413,Kinburn,Detached,House,Central air conditioning,Forced air,3,2,0,0
+875,999000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,3,1,1
+876,998000.0,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,0
+878,969900.0,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,4,3,0,1
+879,949900.0,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,2,3,1,1
+880,949000.0,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,3,3,1,1
+881,949000.0,43.611273,-79.557093,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+882,919900.0,42.305669,-82.914658,Windsor,Detached,House,Central air conditioning,Forced air,3,3,1,0
+883,915000.0,43.1301111,-80.7562977,Woodstock,Detached,House,Central air conditioning,Forced air,2,3,1,1
+884,899900.0,44.17002076666667,-77.3422343,Belleville,Detached,House,Central air conditioning,Forced air,3,3,1,0
+885,899000.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,3,0,0
+886,898999.0,44.83187403333333,-79.7367417,Georgian Bay,Detached,House,Central air conditioning,Forced air,3,3,0,1
+889,849900.0,45.2550212,-75.1221013,St Albert,Detached,House,Central air conditioning,Forced air,3,3,1,0
+890,699900.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,1
+891,699888.0,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,3,4,0,1
+892,679900.0,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,3,2,0,1
+893,664500.0,45.0154164,-75.644567,Kemptville,Detached,House,Central air conditioning,Forced air,3,3,0,0
+894,659900.0,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,3,3,0,0
+895,649900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2,3,0,0
+896,649000.0,42.29533,-83.024461,Windsor,Detached,House,Central air conditioning,Forced air,3,3,1,0
+897,599900.0,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,2,0,0
+898,589500.0,43.1065603,-79.0639039,Niagara Falls,Detached,House,Central air conditioning,Forced air,4,1,0,0
+899,549900.0,43.5460516,-80.2493276,Guelph,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,1
+901,479900.0,46.48338,-80.84973,Coniston,Detached,House,Central air conditioning,Forced air,3,2,0,0
+903,439900.0,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,2,1,0,0
+904,439900.0,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,2,1,0,0
+905,429900.0,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,2,1,0,0
+906,429900.0,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,2,1,0,0
+907,399900.0,42.363585,-82.177131,Chatham,Detached,House,Fully air conditioned,Forced air,3,2,0,0
+908,259900.0,42.1013315,-83.1086458,Amherstburg,Detached,House,Fully air conditioned,Forced air,2,1,0,0
+909,2990000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+910,2850000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,5,1,1
+911,2789000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,3,0,1
+912,2599000.0,44.3150892,-79.5461073,Innisfil,Townhouse,Row / Townhouse,Central air conditioning,Forced air,4,5,0,1
+913,1999000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,1,1
+914,1995000.0,43.71275,-79.406626,Toronto,Detached,House,Central air conditioning,Forced air,3,3,1,1
+915,1975000.0,44.2344356,-79.8063686586334,Essa,Detached,House,Central air conditioning,Forced air,3,4,0,1
+916,1899900.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,5,1,1
+917,1699000.0,43.713691,-79.389435,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+918,1599000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+919,1595000.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,2,2,0,0
+920,1399900.0,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,3,2,1,0
+921,1349000.0,43.713691,-79.389435,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,3,1,0
+922,1298000.0,43.650005,-79.482809,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,2,0,0
+923,1258000.0,43.99973,-79.467545,Aurora,Semi-Detached,House,Central air conditioning,Forced air,3,4,0,0
+924,1249000.0,43.621861,-79.943877,Halton Hills,Detached,House,Wall unit,Forced air,3,2,0,1
+925,1050000.0,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,3,3,0,1
+926,1025000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,0
+927,1000000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,4,4,0,0
+928,999999.0,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,3,2,1,0
+929,999900.0,44.078473,-80.203431,Shelburne,Detached,House,Central air conditioning,Forced air,5,4,0,1
+930,998999.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,3,1,0
+931,985000.0,42.363585,-82.177131,Chatham,Detached,House,Central air conditioning,Forced air,3,4,1,0
+932,950000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,1,0
+933,949000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Wall unit,"Radiant heat, Boiler",3,3,0,0
+934,919000.0,43.2556116,-79.0723264,Niagara-on-the-Lake,Detached,House,Central air conditioning,Forced air,3,1,0,0
+935,899900.0,43.2453004,-80.2508592,St. George,Detached,House,Central air conditioning,Forced air,3,2,1,0
+936,899900.0,43.2661904,-79.9546341,Dundas,Detached,House,Central air conditioning,"Baseboard heaters, Forced air",2,2,1,0
+937,899700.0,42.7415823,-81.33191889735019,Southwold,Detached,House,Central air conditioning,Forced air,4,3,0,0
+938,899000.0,44.241045,-77.358813,Belleville,Detached,House,Central air conditioning,Forced air,4,3,0,1
+939,899000.0,42.3048504,-82.5479704,Stoney Point,Detached,House,Central air conditioning,Forced air,6,3,0,0
+940,865000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,3,0,1
+941,849900.0,42.9585141,-80.7924714,Mount Elgin,Detached,House,Central air conditioning,Forced air,2,3,1,0
+942,829900.0,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,3,4,1,0
+943,810000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,1,0,0
+944,810000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,1,0,1
+945,799999.0,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,3,2,0,0
+946,799900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,2,1,0
+947,745000.0,44.1150554,-78.90598875892695,Scugog,Detached,House,Central air conditioning,Forced air,3,3,0,1
+948,595000.0,51.451405,-85.835963,Raleigh Township,Detached,House,Heat Pump,"Baseboard heaters, Heat Pump",3,2,0,0
+949,489900.0,43.9521503,-77.3491071,Wellington,Detached,House,Central air conditioning,Forced air,2,2,0,1
+950,459900.0,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+951,2350000.0,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,4,4,0,1
+953,1859000.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,4,3,0,1
+954,1799000.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,4,0,1
+955,1799000.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,4,4,0,0
+957,1224900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,4,4,1,0
+959,979000.0,45.1403366,-76.1465672,Carleton Place,Detached,House,Central air conditioning,Forced air,4,2,0,1
+960,915000.0,45.4189929,-75.431074,Navan,Detached,House,Central air conditioning,Forced air,3,3,0,1
+961,899000.0,44.5027226,-80.2172379,Collingwood,Detached,House,Central air conditioning,Forced air,3,3,0,0
+962,684900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,1,1
+964,665000.0,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,3,2,0,1
+966,499900.0,44.00012,-77.13275,Picton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,2,0,0
+967,1550000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,3,0,1
+968,1124900.0,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,3,3,1,0
+969,1100000.0,43.687783,-79.450978,Toronto,Semi-Detached,House,Central air conditioning,Forced air,3,2,1,0
+970,699900.0,43.4001,-80.6497,Baden,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2,3,1,1
+971,2149000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,0,0
+972,1689999.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,4,4,0,1
+973,1350000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,0,1
+974,1199000.0,45.0604056106383,-78.51511551914894,Dysart et al,Detached,House,Wall unit,Baseboard heaters,2,1,1,1
+975,1049000.0,45.2573172,-75.3583264,Russell,Detached,House,Central air conditioning,Forced air,4,4,1,1
+976,899999.0,43.1065603,-79.0639039,Niagara Falls,Detached,House,Central air conditioning,Forced air,4,3,0,0
+977,819900.0,44.0988246,-77.5748551,Quinte West,Detached,House,Central air conditioning,Forced air,2,3,1,1
+978,724900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,"Forced air, Radiant heat",4,1,0,0
+980,2950000.0,43.791476,-79.408257,Toronto,Detached,House,Central air conditioning,Forced air,4,5,0,1
+981,2680000.0,44.0487711,-77.5813748,Prince Edward County,Detached,House,Central air conditioning,Radiant heat,3,2,0,0
+982,2558000.0,43.64877,-79.38171,Toronto,Detached,House,Central air conditioning,Forced air,4,6,0,1
+983,2488000.0,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,4,4,1,1
+984,1999000.0,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,5,7,1,1
+985,1599000.0,44.7546878,-79.51491635139335,Severn,Detached,House,Central air conditioning,Forced air,3,2,0,0
+986,1299999.0,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,3,3,0,0
+987,1295850.0,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,3,3,0,0
+988,1290000.0,45.0154164,-75.644567,Kemptville,Detached,House,Central air conditioning,Forced air,3,4,1,1
+989,1129900.0,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,3,4,1,1
+990,1125000.0,44.2921994,-77.82218148636545,Trent Hills,Detached,House,Central air conditioning,Forced air,2,3,1,1
+991,1049990.0,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,3,4,1,0
+992,968000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,1,1
+994,898000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,3,0,1
+995,874900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2,3,1,1
+996,849900.0,42.9922181,-79.2484192,Welland,Detached,House,Central air conditioning,Forced air,3,3,1,0
+997,839900.0,44.0928729,-77.2067814,Demorestville,Detached,House,Central air conditioning,Forced air,4,2,0,0
+998,719900.0,44.00012,-77.13275,Picton,Detached,House,Central air conditioning,Forced air,2,2,0,0
+999,685000.0,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,3,2,0,1
+1000,599900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,2,0,0
+1001,589000.0,43.17354975,-79.41600688766434,Lincoln,Townhouse,Row / Townhouse,Central air conditioning,Forced air,3,2,0,0
+1002,579900.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,3,3,0,1
+1003,539000.0,44.750147,-79.885712,Midland,Detached,House,Central air conditioning,Forced air,3,1,0,0
+1004,469900.0,46.101328,-77.487602,Deep River,Detached,House,None,Forced air,4,2,0,1
+1005,2657900.0,43.723138,-79.235498,Toronto,Detached,House,Central air conditioning,Forced air,4,5,0,1
+1006,1999000.0,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,5,4,1,1
+1007,1999000.0,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,4,4,1,1
+1008,1815000.0,43.602637,-79.506096,Toronto,Detached,House,Central air conditioning,Forced air,4,4,0,1
+1009,1379000.0,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,3,3,1,0
+1010,1324888.0,44.0818996,-79.77443058053504,New Tecumseth,Detached,House,Central air conditioning,Forced air,4,4,1,1
+1011,1125000.0,44.3085912,-77.798084,Campbellford,Detached,House,Central air conditioning,Forced air,2,3,1,1
